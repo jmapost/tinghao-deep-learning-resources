@@ -2,7 +2,7 @@
 
 This README is how and where I learn deep learning from the internet. There are many resources out there and normally you could just google it, but I kept the resources that I like or suggest here. I'll constantly update the list here, since I am constantly learning.
 
-### A suggested approach of learning
+### A suggested approach for learning
 
 Learning is a long path of work. When I am learning deep learning, sometimes I just couldn't understand some terminology. The strategy to tackle this problem is to read more regarding to the same topic. Some articles assume you know the knowledge (unfortunately, you are not), and skip the details of it. Therefore I would suggest to read more until you understand it. This approach is somehow similar to the training in supervised learning. More data you feed in the training, better performance you'll attain. The resources listed below have some overlap knowledge, so read fast the part you already know and deep into the one you don't. Enjoy!
 
