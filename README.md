@@ -78,6 +78,10 @@ Reinforcement Learning
 
 - [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/) - Nice examples with explanation
 
+Debug
+
+- [Debugging Neural Networks: A Checklist](https://engineering.semantics3.com/debugging-neural-networks-a-checklist-ca52e11151ec)
+
 How to win Kaggle
 
 - [Winning Tips on Machine Learning Competitions by Kazanova](http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3?spm=5176.100239.blogcont73757.26.GHAv73)
