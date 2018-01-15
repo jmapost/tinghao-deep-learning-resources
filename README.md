@@ -92,35 +92,23 @@ Self-study Guide
 
 - [My 3 Month Deep Learning Career Pivot](https://towardsdatascience.com/my-3-month-deep-learning-career-pivot-af94cd8d6a31)
 
-### Github Repositories
+### Github Repositories (TensorFlow Based)
 
-TensorFlow
+Multi-topics
 
-- [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt) - TensorFlow's official tutorial for sequence to sequence
-
-- [https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
-
-- [https://github.com/pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials)
-
-- [https://github.com/sjchoi86/Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101)
-
-- [https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)
-
-- [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
-
-- [https://github.com/balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
-
-- [https://github.com/nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+- [Great][https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorial and examples for beginners with latest APIs
 
 - [https://github.com/Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
-- [https://github.com/luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
+- [https://github.com/sjchoi86/Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101) - TensorFlow tutorials
 
-- [https://github.com/msracver/Deep-Image-Analogy](https://github.com/msracver/Deep-Image-Analogy)
+- [https://github.com/pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
 
-- [https://github.com/aarshayj/Analytics_Vidhya/tree/master/Articles](https://github.com/aarshayj/Analytics_Vidhya/tree/master/Articles)
+Sequence to Sequence
 
-- [https://github.com/hardmaru/write-rnn-tensorflow](https://github.com/hardmaru/write-rnn-tensorflow)
+- [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt) - TensorFlow's official tutorial for sequence to sequence
+
+
 
 Object Detection
 
@@ -141,6 +129,34 @@ Self-driving car
 OpenCV
 
 - [OpenCV Python Neural Network Autonomous RC Car](https://github.com/hamuchiwa/AutoRCCar) - A toy autonomous car built by opencv
+
+
+Others
+
+
+
+
+- [https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)
+
+- [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
+
+- [https://github.com/balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
+
+- [https://github.com/nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+
+- [https://github.com/luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
+
+- [https://github.com/msracver/Deep-Image-Analogy](https://github.com/msracver/Deep-Image-Analogy)
+
+- [https://github.com/aarshayj/Analytics_Vidhya/tree/master/Articles](https://github.com/aarshayj/Analytics_Vidhya/tree/master/Articles)
+
+- [https://github.com/hardmaru/write-rnn-tensorflow](https://github.com/hardmaru/write-rnn-tensorflow)
+
+
+
+
+
+
 
 ### Deep Learning Framework
 
@@ -233,7 +249,7 @@ Object Detection or Tracking Benchmarks
 
 [Machine Learning Notes](https://medium.com/machine-learning-algorithms) - My understanding of machine learning with simple descriptions
 
-### Connect Me
+### Connect to Me on 
 
 LinkedIn: [https://www.linkedin.com/in/chentinghao/](https://www.linkedin.com/in/chentinghao/)
 
