@@ -10,13 +10,13 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 Machine Learning
 
-- [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera - This course is considered the MUST take if you wanna learn machine learning. Andrew uses easy understanding knowledge to bring you to the machine learning world.
+- [Must Check] [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera - This course is considered the MUST take if you wanna learn machine learning. Andrew uses easy understanding knowledge to bring you to the machine learning world.
 
 - [Deep learning by Google](https://www.udacity.com/course/deep-learning--ud730) - Google employee teach you deep learning on Udacity.
 
 Convolutional Neural Networks
 
-- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/2017/syllabus) by Fei-Fei Li, Justin Johnson and Serena Yeung at Stanford - At the time of this post, the course is taught in 2017. If you want to learn the latest course, just google CS231n.
+- [Must Check] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/2017/syllabus) by Fei-Fei Li, Justin Johnson and Serena Yeung at Stanford - At the time of this post, the course is taught in 2017. If you want to learn the latest course, just google CS231n.
 
 Natural Language Processing
 
@@ -68,9 +68,9 @@ Convolutional Neural Network
 
 Recurrent Neural Network
 
-- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - The best explanation of Long Short-term Memory.
+- [Must Check] [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - The best explanation of Long Short-term Memory.
 
-- [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Post by Andrej. He explains how recurrent neural network works and demonstrates some experiments.
+- [Must Check] [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Post by Andrej. He explains how recurrent neural network works and demonstrates some experiments.
 
 - [Deep Learning in a Nutshell: Sequence Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-sequence-learning/) - Introduction to Recurrent Neural Network, Long Short-term Memory, word embedding, and encoder-decoder.
 
@@ -96,9 +96,9 @@ Self-study Guide
 
 Multi-topics
 
-- [Great][https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorial and examples for beginners with latest APIs
+- [Must Check] [https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorial and examples for beginners with latest APIs
 
-- [https://github.com/Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+- [Must Check] [https://github.com/Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
 - [https://github.com/sjchoi86/Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101) - TensorFlow tutorials
 
@@ -106,7 +106,7 @@ Multi-topics
 
 Sequence to Sequence
 
-- [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt) - TensorFlow's official tutorial for sequence to sequence
+- [Must Check] [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt) - TensorFlow's official tutorial for sequence to sequence
 
 
 
@@ -162,7 +162,7 @@ Others
 
 TensorFlow
 
-- [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/) - Steps by steps teach you how to implement TensorFlow on some tasks. This is the starting point of learning TensorFlow.
+- [Must Check] [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/) - Steps by steps teach you how to implement TensorFlow on some tasks. This is the starting point of learning TensorFlow.
 
 - [CS 20: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html) by Chip Huyen at Stanford - TensorFlow course for Stanford students
 
@@ -180,13 +180,15 @@ MXNet
 
 Deep Learning
 
-- [Colah's blog](http://colah.github.io/) - The best blog to give you the intuition of deep learning. New post will be located on [Distill](https://distill.pub/).
+- [Must Check] [Colah's blog](http://colah.github.io/) - The best blog to give you the intuition of deep learning. New post will be located on [Distill](https://distill.pub/).
 
-- [Distill](https://distill.pub/) - The best blog to visualize and understand deep learning.
+- [Must Check] [Distill](https://distill.pub/) - The best blog to visualize and understand deep learning.
 
-- [Andrej Karpathy blog](http://karpathy.github.io/) - My favorite blogger. Andrej posts many great tutorials with some deep insights, so be sure to check out!
+- [Must Check] [Andrej Karpathy blog](http://karpathy.github.io/) - My favorite blogger. Andrej posts many great tutorials with some deep insights, so be sure to check out!
 
-- [機器之心](https://www.jiqizhixin.com/) - The best media for Machine Learning (in Chinese)
+- [Must Check] [機器之心](https://www.jiqizhixin.com/) - The best media for Machine Learning (in Chinese)
+
+- [Google Research Blog](https://research.googleblog.com/) - Show the latest research of Google.
 
 - [Data Science and Robots](https://brohrer.github.io/blog.html)
 
