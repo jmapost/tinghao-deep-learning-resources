@@ -108,8 +108,6 @@ Sequence to Sequence
 
 - [Must Check] [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt) - TensorFlow's official tutorial for sequence to sequence
 
-
-
 Object Detection
 
 - [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
@@ -117,6 +115,12 @@ Object Detection
 - [https://github.com/CharlesShang/FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN) - Mask Regional Convolutional Neural Network (TensorFlow)
 
 - [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn) - Faster Regional Convolutional Neural Network
+
+Style Transfer
+
+- [https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - Implementation combining [Gatys' A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576), [Johnson's Perceptual Losses for Real-Time Style Transfer and Super-Resolution](http://cs.stanford.edu/people/jcjohns/eccv16/), and [Ulyanov's Instance Normalization](https://arxiv.org/abs/1607.08022).
+
+- [https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb) - Implementation of [Gatys' A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576).
 
 Reinforcement Learning
 
@@ -184,8 +188,6 @@ Deep Learning
 
 - [Must Check] [Distill](https://distill.pub/) - The best blog to visualize and understand deep learning.
 
-- [Must Check] [Andrej Karpathy blog](http://karpathy.github.io/) - My favorite blogger. Andrej posts many great tutorials with some deep insights, so be sure to check out!
-
 - [Must Check] [機器之心](https://www.jiqizhixin.com/) - The best media for Machine Learning (in Chinese)
 
 - [Google Research Blog](https://research.googleblog.com/) - Show the latest research of Google.
@@ -195,6 +197,8 @@ Deep Learning
 - [Adit Deshpande's blog](https://adeshpande3.github.io/) - Reviews of deep learning with many great references
 
 - [Machine Learning Course Notes](http://www.holehouse.org/mlclass/) - This is the notes taken from Machine Learning course on Coursera.
+
+- [Andrej Karpathy blog](http://karpathy.github.io/) - Too bad he didn't update anymore, however you can follow him on [twitter](https://twitter.com/karpathy?lang=en) and [medium](https://medium.com/@karpathy).
 
 - [Hinton's blog](https://www.cs.toronto.edu/~hinton/)
 
@@ -242,7 +246,9 @@ Object Detection or Tracking Benchmarks
 
 ### Pre-trained Models
 
-- [https://pjreddie.com/darknet/imagenet/](https://pjreddie.com/darknet/imagenet/) - On Image Net
+- [http://www.vlfeat.org/matconvnet/models/](http://www.vlfeat.org/matconvnet/models/) - AlexNet, VGG16, VGG19, GoogleNet, ResNet on image net, fast Regional Convolutional Neural Network on pascal (matlab file)
+
+- [https://pjreddie.com/darknet/imagenet/](https://pjreddie.com/darknet/imagenet/) - Models on image net
 
 
 ### My Blog
