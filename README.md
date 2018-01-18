@@ -104,6 +104,8 @@ Multi-topics
 
 - [https://github.com/pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
 
+- [https://github.com/BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations. http://www.tensorflowbook.com
+
 Sequence to Sequence
 
 - [Must Check] [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt) - TensorFlow's official tutorial for sequence to sequence
@@ -118,9 +120,9 @@ Object Detection
 
 Style Transfer
 
-- [https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - Implementation combining [Gatys' A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576), [Johnson's Perceptual Losses for Real-Time Style Transfer and Super-Resolution](http://cs.stanford.edu/people/jcjohns/eccv16/), and [Ulyanov's Instance Normalization](https://arxiv.org/abs/1607.08022).
+- [https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - Implementation combining [Gatys et al](https://arxiv.org/abs/1508.06576), [Johnson et al](http://cs.stanford.edu/people/jcjohns/eccv16/), and [Ulyanov et al](https://arxiv.org/abs/1607.08022).
 
-- [https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb) - Implementation of [Gatys' A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576).
+- [https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb) - Implementation of [Gatys et al](https://arxiv.org/abs/1508.06576).
 
 Reinforcement Learning
 
@@ -137,9 +139,6 @@ OpenCV
 
 Others
 
-
-
-
 - [https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)
 
 - [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
@@ -155,11 +154,6 @@ Others
 - [https://github.com/aarshayj/Analytics_Vidhya/tree/master/Articles](https://github.com/aarshayj/Analytics_Vidhya/tree/master/Articles)
 
 - [https://github.com/hardmaru/write-rnn-tensorflow](https://github.com/hardmaru/write-rnn-tensorflow)
-
-
-
-
-
 
 
 ### Deep Learning Framework
@@ -238,6 +232,8 @@ Image
 - [The CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) - The CIFAR-10 and CIFAR-100 are labeled subsets of the 80 million tiny images dataset.
 
 Object Detection and Semantic Segmentation
+
+- [http://cocodataset.org/#home](http://cocodataset.org/#home) - COCO is a large-scale object detection, segmentation, and captioning dataset. 
 
 - [PASCAL-Context](https://www.cs.stanford.edu/~roozbeh/pascal-context/) - Training and validation contains 10,103 images while testing contains 9,637 images.
 
