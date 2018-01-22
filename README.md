@@ -8,8 +8,35 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 
 
+## Table of Content
 
+- [Courses](https://github.com/chentinghao/tinghao-deep-learning-resources#courses)
 
+- [Post](https://github.com/chentinghao/tinghao-deep-learning-resources#post)
+
+- [Github Repositories (TensorFlow based)](https://github.com/chentinghao/tinghao-deep-learning-resources#github-repositories-tensorflow-based)
+
+- [Deep Learning Framework](https://github.com/chentinghao/tinghao-deep-learning-resources#deep-learning-framework)
+
+- [Blog](https://github.com/chentinghao/tinghao-deep-learning-resources#blog)
+
+- [Books](https://github.com/chentinghao/tinghao-deep-learning-resources#books)
+
+- [Python](https://github.com/chentinghao/tinghao-deep-learning-resources#python)
+
+- [Competition](https://github.com/chentinghao/tinghao-deep-learning-resources#competition)
+
+- [Trend](https://github.com/chentinghao/tinghao-deep-learning-resources#trend)
+
+- [Dataset](https://github.com/chentinghao/tinghao-deep-learning-resources#dataset)
+
+- [Pre-trained Models](https://github.com/chentinghao/tinghao-deep-learning-resources#pre-trained-models)
+
+- [My Blog](https://github.com/chentinghao/tinghao-deep-learning-resources#my-blog)
+
+- [Connect Me](https://github.com/chentinghao/tinghao-deep-learning-resources#connect-me)
+
+- [Python for Data Science Cheat Sheet](https://github.com/chentinghao/tinghao-deep-learning-resources#python-for-data-science-cheat-sheet)
 
 
 
@@ -156,15 +183,15 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 ### Style Transfer
 
-- [https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - Implementation combining [Gatys et al](https://arxiv.org/abs/1508.06576), [Johnson et al](http://cs.stanford.edu/people/jcjohns/eccv16/), and [Ulyanov et al](https://arxiv.org/abs/1607.08022).
+- [Must Check] [https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - Implementation combining [Gatys et al](https://arxiv.org/abs/1508.06576), [Johnson et al](http://cs.stanford.edu/people/jcjohns/eccv16/), and [Ulyanov et al](https://arxiv.org/abs/1607.08022).
 
-- [https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb) - Implementation of [Gatys et al](https://arxiv.org/abs/1508.06576) with tutorial.
+- [Must Check] [https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb) - Implementation of [Gatys et al](https://arxiv.org/abs/1508.06576) with tutorial.
 
-- [https://github.com/cysmith/neural-style-tf](https://github.com/cysmith/neural-style-tf) - Implementation of [Gatys et al](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), [Ruder et al](https://arxiv.org/abs/1604.08610), [Gatys et al](https://arxiv.org/abs/1606.05897).
+- [Must Check] [https://github.com/cysmith/neural-style-tf](https://github.com/cysmith/neural-style-tf) - Implementation of [Gatys et al](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), [Ruder et al](https://arxiv.org/abs/1604.08610), [Gatys et al](https://arxiv.org/abs/1606.05897).
 
 - [https://github.com/anishathalye/neural-style](https://github.com/anishathalye/neural-style) - Implementation of [Gatys et al](https://arxiv.org/abs/1508.06576).
 
-- [https://github.com/ckmarkoh/neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of [Gatys et al](https://arxiv.org/abs/1508.06576).
+- [https://github.com/chentinghao/image-style-transfer](https://github.com/chentinghao/image-style-transfer) - My style transfer tutorial combining the first and second repository.
 
 
 
