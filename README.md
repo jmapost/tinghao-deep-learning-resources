@@ -14,7 +14,9 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 - [Post](https://github.com/chentinghao/tinghao-deep-learning-resources#post)
 
-- [Github Repositories (TensorFlow based)](https://github.com/chentinghao/tinghao-deep-learning-resources#github-repositories-tensorflow-based)
+- [Github Repositories (TensorFlow Based)](https://github.com/chentinghao/tinghao-deep-learning-resources#github-repositories-tensorflow-based)
+
+- [Github Repositories (Keras Based)](https://github.com/chentinghao/tinghao-deep-learning-resources#github-repositories-keras-based)
 
 - [Deep Learning Framework](https://github.com/chentinghao/tinghao-deep-learning-resources#deep-learning-framework)
 
@@ -24,7 +26,7 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 - [Python](https://github.com/chentinghao/tinghao-deep-learning-resources#python)
 
-- [Competition](https://github.com/chentinghao/tinghao-deep-learning-resources#competition)
+- [Kaggle](https://github.com/chentinghao/tinghao-deep-learning-resources#kaggle)
 
 - [Trend](https://github.com/chentinghao/tinghao-deep-learning-resources#trend)
 
@@ -149,11 +151,19 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 ### Multi-topics
 
-- [Must Check][https://github.com/jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - Awesome TensorFlow
+- [Must Check] [https://github.com/ageron/handson-ml](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 
 - [Must Check] [https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorial and examples for beginners with latest APIs
 
 - [Must Check] [https://github.com/Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+
+- [Must Check] [https://github.com/nfmcclure/tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook.
+
+- [Must Check][https://github.com/jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - Awesome TensorFlow
+
+- [https://github.com/udacity/deep-learning](https://github.com/udacity/deep-learning) - Repo for Udacity Deep Learning Nanodegree Foundations program.
+
+- [https://github.com/nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) - Simple tutorials using TensorFlow Framework.
 
 - [https://github.com/sjchoi86/Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101) - TensorFlow tutorials
 
@@ -161,13 +171,33 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 - [https://github.com/BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations. http://www.tensorflowbook.com
 
+- [https://github.com/chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+
 - [https://github.com/vahidk/EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
+
+
+
+### Convolutional Neural Network
+
+- [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn) - An Implementation of Fully Convolutional Networks in Tensorflow.
+
+
+
+### Recurrent Neural Network, Long Short-term Memory
+
+- [https://github.com/hardmaru/write-rnn-tensorflow](https://github.com/hardmaru/write-rnn-tensorflow) - Generative Handwriting using LSTM Mixture Density Network with TensorFlow
+
+
 
 
 
 ### Sequence to Sequence
 
 - [Must Check] [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt) - TensorFlow's official tutorial for sequence to sequence
+
+
+
+
 
 ### Object Detection
 
@@ -176,6 +206,10 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 - [https://github.com/CharlesShang/FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN) - Mask Regional Convolutional Neural Network (TensorFlow)
 
 - [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn) - Faster Regional Convolutional Neural Network
+
+
+- [https://github.com/balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow) - Single Shot MultiBox Detector in TensorFlow.
+
 
 
 
@@ -202,6 +236,10 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 
 
+### Capsules Net
+
+- [https://github.com/naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) - A Tensorflow implementation of CapsNet(Capsules Net) in Hinton's paper Dynamic Routing Between Capsules.
+
 
 
 
@@ -219,31 +257,32 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 - [OpenCV Python Neural Network Autonomous RC Car](https://github.com/hamuchiwa/AutoRCCar) - A toy autonomous car built by opencv
 
 
+### Data Science
 
+- [https://github.com/aarshayj/Analytics_Vidhya/tree/master/Articles](https://github.com/aarshayj/Analytics_Vidhya/tree/master/Articles) - Tutorials of Features Engineering.
 
 
 ### Others
 
-- [https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)
-
-- [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
-
-- [https://github.com/balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
-
-- [https://github.com/nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
-
-- [https://github.com/luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-
-- [https://github.com/msracver/Deep-Image-Analogy](https://github.com/msracver/Deep-Image-Analogy)
-
-- [https://github.com/aarshayj/Analytics_Vidhya/tree/master/Articles](https://github.com/aarshayj/Analytics_Vidhya/tree/master/Articles)
-
-- [https://github.com/hardmaru/write-rnn-tensorflow](https://github.com/hardmaru/write-rnn-tensorflow)
 
 
 
+## Github Repositories (Keras Based)
+
+### Multi-topics
+
+- [Must Check] [https://github.com/keras-team/keras/tree/master/examples](https://github.com/keras-team/keras/tree/master/examples) - Keras official examples.
+
+- [Must Check] [https://github.com/PacktPublishing/Deep-Learning-with-Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras) - Code repository for Deep Learning with Keras published by Packt.
 
 
+### Convolutional Neural Network
+
+- [https://github.com/ypwhs/dogs_vs_cats](https://github.com/ypwhs/dogs_vs_cats) - [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats)
+
+### Capsules Net
+
+- [https://github.com/XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
 
 
 
@@ -341,17 +380,35 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 
 
-## Competition
+## Kaggle
 
-[Kaggle](https://www.kaggle.com/) - The biggest data competition online
+Kaggle Past Solutions --- [http://ndres.me/kaggle-past-solutions/](http://ndres.me/kaggle-past-solutions/)
 
+Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://github.com/krishnakalyan3/awesome-kaggle)
 
+### [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
 
+- [https://github.com/Arturus/kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic)
 
+- [https://github.com/jfpuget/Kaggle](https://github.com/jfpuget/Kaggle)
 
+### [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
 
+- [https://github.com/LightR0/New-York-City-Taxi-Trip-Duration](https://github.com/LightR0/New-York-City-Taxi-Trip-Duration)
 
+- [https://github.com/mk9440/New-York-City-Taxi-Trip-Duration](https://github.com/mk9440/New-York-City-Taxi-Trip-Duration)
 
+- [https://github.com/Currie32/NYC-Taxi-Trip-Duration](https://github.com/Currie32/NYC-Taxi-Trip-Duration)
+
+- [https://github.com/kqdmqx/kaggle-New-York-City-Taxi-Trip-Duration](https://github.com/kqdmqx/kaggle-New-York-City-Taxi-Trip-Duration)
+
+### [Telstra Network Disruptions](https://www.kaggle.com/c/telstra-recruiting-network)
+
+- [https://github.com/aarshayj/Kaggle](https://github.com/aarshayj/Kaggle)
+
+### [Loan Default Prediction](https://www.kaggle.com/c/loan-default-prediction)
+
+- [https://github.com/BernardOng/kaggle-consumer-credit-default](https://github.com/BernardOng/kaggle-consumer-credit-default)
 
 
 ## Trend
@@ -428,7 +485,7 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 
 
-## Connect to Me on 
+## Connect Me 
 
 LinkedIn: [https://www.linkedin.com/in/chentinghao/](https://www.linkedin.com/in/chentinghao/)
 
