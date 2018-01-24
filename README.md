@@ -18,6 +18,8 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 - [Github Repositories (Keras Based)](https://github.com/chentinghao/tinghao-deep-learning-resources#github-repositories-keras-based)
 
+- [Github Repositories (Caffe2 Based)](https://github.com/chentinghao/tinghao-deep-learning-resources#github-repositories-caffe2-based)
+
 - [Deep Learning Framework](https://github.com/chentinghao/tinghao-deep-learning-resources#deep-learning-framework)
 
 - [Blog](https://github.com/chentinghao/tinghao-deep-learning-resources#blog)
@@ -33,6 +35,8 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 - [Dataset](https://github.com/chentinghao/tinghao-deep-learning-resources#dataset)
 
 - [Pre-trained Models](https://github.com/chentinghao/tinghao-deep-learning-resources#pre-trained-models)
+
+- [Deep Learning System Design](https://github.com/chentinghao/tinghao-deep-learning-resources#deep-learning-system-design)
 
 - [My Blog](https://github.com/chentinghao/tinghao-deep-learning-resources#my-blog)
 
@@ -195,6 +199,14 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 - [Must Check] [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt) - TensorFlow's official tutorial for sequence to sequence
 
+- [https://github.com/udacity/deep-learning/tree/master/seq2seq](https://github.com/udacity/deep-learning/tree/master/seq2seq) - Udacity sequence to sequence tutorials.
+
+- [https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews](https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews) - A seq2seq model that can generate summaries from fine food reviews on Amazon.
+
+- [https://github.com/Disiok/poetry-seq2seq](https://github.com/Disiok/poetry-seq2seq) - Chinese Poetry Generation.
+
+
+- [https://github.com/j-min/tf_tutorial_plus/tree/master/RNN_seq2seq/contrib_seq2seq](https://github.com/j-min/tf_tutorial_plus/tree/master/RNN_seq2seq/contrib_seq2seq) - Tutorials for TensorFlow APIs the official documentation doesn't cover.
 
 
 
@@ -284,6 +296,14 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 - [https://github.com/XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
 
+
+
+
+## Github Repositories (Caffe2 Based)
+
+### Object Detection
+
+- [https://github.com/facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 
 
 
@@ -464,9 +484,11 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 
 
 
+## Deep Learning System Design
 
+[Google Cloud Architecture Incredible On Pertaining To Running Distributed TensorFlow Compute Engine Solutions](http://donatz.info/google-cloud-architecture/google-cloud-architecture-incredible-on-pertaining-to-running-distributed-tensorflow-compute-engine-solutions-26/)
 
-
+[EyeEm's Architecture](http://highscalability.com/blog/2017/10/23/one-model-at-a-time-integrating-and-running-deep-learning-mo.html)
 
 
 
