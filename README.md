@@ -20,6 +20,8 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 - [Github Repositories (Caffe2 Based)](https://github.com/chentinghao/tinghao-deep-learning-resources#github-repositories-caffe2-based)
 
+- [Github Repositories (PySpark)](https://github.com/chentinghao/tinghao-deep-learning-resources#github-repositories-pyspark)
+
 - [Deep Learning Framework](https://github.com/chentinghao/tinghao-deep-learning-resources#deep-learning-framework)
 
 - [Blog](https://github.com/chentinghao/tinghao-deep-learning-resources#blog)
@@ -37,6 +39,8 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 - [Pre-trained Models](https://github.com/chentinghao/tinghao-deep-learning-resources#pre-trained-models)
 
 - [Deep Learning System Design](https://github.com/chentinghao/tinghao-deep-learning-resources#deep-learning-system-design)
+
+- [AI Companies](https://github.com/chentinghao/tinghao-deep-learning-resources#ai-companies)
 
 - [My Blog](https://github.com/chentinghao/tinghao-deep-learning-resources#my-blog)
 
@@ -276,6 +280,15 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 ### Others
 
+- [https://github.com/nicolov/gradient_boosting_tensorflow_xgboost](https://github.com/nicolov/gradient_boosting_tensorflow_xgboost) - Benchmarking Gradient Boosting in TensorFlow and XGBoost
+
+
+
+
+
+
+
+
 
 
 
@@ -304,6 +317,16 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 ### Object Detection
 
 - [https://github.com/facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
+
+
+
+## Github Repositories (PySpark)
+
+- [https://github.com/jadianes/spark-py-notebooks](https://github.com/jadianes/spark-py-notebooks) - Apache Spark & Python (pySpark) tutorials for Big Data Analysis and Machine Learning as IPython / Jupyter notebooks
+
+- [https://github.com/Azure/mmlspark](https://github.com/Azure/mmlspark) - Microsoft Machine Learning for Apache Spark
+
+- [https://github.com/lensacom/sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn = Sparkit-learn
 
 
 
@@ -408,9 +431,15 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 
 ### [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
 
-- [https://github.com/Arturus/kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic)
+- [https://github.com/Arturus/kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic) - 1st place.
 
-- [https://github.com/jfpuget/Kaggle](https://github.com/jfpuget/Kaggle)
+- [https://github.com/jfpuget/Kaggle](https://github.com/jfpuget/Kaggle) - 2nd place.
+
+
+### [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge)
+
+- [https://github.com/ternaus/TernausNet](https://github.com/ternaus/TernausNet) - 1st place.
+
 
 ### [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
 
@@ -429,6 +458,17 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 ### [Loan Default Prediction](https://www.kaggle.com/c/loan-default-prediction)
 
 - [https://github.com/BernardOng/kaggle-consumer-credit-default](https://github.com/BernardOng/kaggle-consumer-credit-default)
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Trend
@@ -486,9 +526,26 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 
 ## Deep Learning System Design
 
-[Google Cloud Architecture Incredible On Pertaining To Running Distributed TensorFlow Compute Engine Solutions](http://donatz.info/google-cloud-architecture/google-cloud-architecture-incredible-on-pertaining-to-running-distributed-tensorflow-compute-engine-solutions-26/)
+### [Apache Spark](https://spark.apache.org/) --- Spark is amazing for in-memory and iterative computing. The key benefit it offers is caching intermediate data in-memory for better access times.
 
-[EyeEm's Architecture](http://highscalability.com/blog/2017/10/23/one-model-at-a-time-integrating-and-running-deep-learning-mo.html)
+
+### Real World Examples 
+
+- [Google Cloud Architecture Incredible On Pertaining To Running Distributed TensorFlow Compute Engine Solutions](http://donatz.info/google-cloud-architecture/google-cloud-architecture-incredible-on-pertaining-to-running-distributed-tensorflow-compute-engine-solutions-26/)
+
+- [EyeEm's Architecture](http://highscalability.com/blog/2017/10/23/one-model-at-a-time-integrating-and-running-deep-learning-mo.html)
+
+
+
+
+
+
+
+## AI Companies
+
+- [2017 Synced Machine Intelligence Awards](https://www.jiqizhixin.com/articles/synced-machineintelligence-awards01)
+
+- [机器之心百家影响人工智能未来的公司榜单](https://github.com/jiqizhixin/AI00)
 
 
 
