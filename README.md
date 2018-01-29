@@ -20,8 +20,6 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 - [Github Repositories (Caffe2 Based)](https://github.com/chentinghao/tinghao-deep-learning-resources#github-repositories-caffe2-based)
 
-- [Github Repositories (PySpark)](https://github.com/chentinghao/tinghao-deep-learning-resources#github-repositories-pyspark)
-
 - [Deep Learning Framework](https://github.com/chentinghao/tinghao-deep-learning-resources#deep-learning-framework)
 
 - [Blog](https://github.com/chentinghao/tinghao-deep-learning-resources#blog)
@@ -38,8 +36,6 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 - [Pre-trained Models](https://github.com/chentinghao/tinghao-deep-learning-resources#pre-trained-models)
 
-- [Deep Learning System Design](https://github.com/chentinghao/tinghao-deep-learning-resources#deep-learning-system-design)
-
 - [AI Companies](https://github.com/chentinghao/tinghao-deep-learning-resources#ai-companies)
 
 - [My Blog](https://github.com/chentinghao/tinghao-deep-learning-resources#my-blog)
@@ -54,29 +50,28 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 ## Courses
 
-### Machine Learning
-
-- [Must Check] [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera - This course is considered the MUST take if you wanna learn machine learning. Andrew uses easy understanding knowledge to bring you to the machine learning world.
-
-- [Deep learning by Google](https://www.udacity.com/course/deep-learning--ud730) - Google employee teach you deep learning on Udacity.
 
 ### Convolutional Neural Networks
 
 - [Must Check] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/2017/syllabus) by Fei-Fei Li, Justin Johnson and Serena Yeung at Stanford - At the time of this post, the course is taught in 2017. If you want to learn the latest course, just google CS231n.
 
+
+
 ### Natural Language Processing
 
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/syllabus.html) by Richard Socher at Stanford
 
-- [Deep Learning for Natural Language Processing](https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/) - The lecture notes is [here](https://github.com/oxford-cs-deepnlp-2017/lectures).
+
+
 
 ### Reinforcement Learning
 
-- [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver at UCL - Big giant of reinforcement learning. This course was taught when David Silver is at UCL.
 
 - [CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) by Emma Brunskill at Stanford - Since David Silver currently is not teaching Reinforcement Learning at UCL, you might wanna take course here instead.
 
 - [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/) by Sergey Levine at UC Berkeley
+
+
 
 ### Self-driving Car
 
@@ -94,59 +89,44 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 ## Post
 
-### Deep Learning
-
-- [Everything you need to know about Neural Networks](https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491) - A good overview of neural network
-
-- [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)- Under the hood how deep learning works.
-
-- [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/) - Deep learning is like a black box. Let's visualize under the hood and have the intuition.
-
-- [Deep Learning in a Nutshell: History and Training](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-history-training/) - Great examples to understand under the hood of deep learning.
-
-- [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b) - As the title said, you should know how back propagation works.
-
-- [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0) - Great intuition of how to choose activation function
 
 ### Convolutional Neural Network
-
-- [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/StarterCode/) - Great tutorials with Matlab code 
-
-- [Deep Learning in a Nutshell: Core Concepts](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/) - Great post for understanding Convolutional Neural Network
-
-- [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285v1.pdf) - Understand what is pooling, padding and strides in Convolutional Neural Network.
-
-- [Understanding the backward pass through Batch Normalization Layer](http://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
 
 - [Deep Bilateral Learning for Real-Time Image Enhancement](https://groups.csail.mit.edu/graphics/hdrnet/) - Algorithms to enhance image resolution through Convolutional Neural Network.
 
 - [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4) - Overview of Regional Convolutional Neural Network
 
+
+
 ### Recurrent Neural Network
 
 - [Must Check] [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - The best explanation of Long Short-term Memory.
 
-- [Must Check] [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Post by Andrej. He explains how recurrent neural network works and demonstrates some experiments.
 
-- [Deep Learning in a Nutshell: Sequence Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-sequence-learning/) - Introduction to Recurrent Neural Network, Long Short-term Memory, word embedding, and encoder-decoder.
+- [Must Check] [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/) - The best explanation of attention mechanism.
+
+
+
+
+
+
+
+
 
 ### Reinforcement Learning
 
-- [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/) - Nice examples with explanation
+
+
+
+
+
+
+
 
 ### Debug
 
 - [Debugging Neural Networks: A Checklist](https://engineering.semantics3.com/debugging-neural-networks-a-checklist-ca52e11151ec)
 
-### How to win Kaggle
-
-- [Winning Tips on Machine Learning Competitions by Kazanova](http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3?spm=5176.100239.blogcont73757.26.GHAv73)
-
-- [教你如何在机器学习竞赛中更胜一筹](http://www.deeplearn.me/960.html)
-
-### Self-study Guide
-
-- [My 3 Month Deep Learning Career Pivot](https://towardsdatascience.com/my-3-month-deep-learning-career-pivot-af94cd8d6a31)
 
 
 
@@ -157,7 +137,7 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 ## Github Repositories (TensorFlow Based)
 
-### Multi-topics
+### Begineer Level
 
 - [Must Check] [https://github.com/ageron/handson-ml](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 
@@ -187,13 +167,11 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 ### Convolutional Neural Network
 
-- [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn) - An Implementation of Fully Convolutional Networks in Tensorflow.
 
 
 
-### Recurrent Neural Network, Long Short-term Memory
+### Recurrent Neural Network
 
-- [https://github.com/hardmaru/write-rnn-tensorflow](https://github.com/hardmaru/write-rnn-tensorflow) - Generative Handwriting using LSTM Mixture Density Network with TensorFlow
 
 
 
@@ -210,8 +188,6 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 - [https://github.com/Disiok/poetry-seq2seq](https://github.com/Disiok/poetry-seq2seq) - Chinese Poetry Generation.
 
 
-- [https://github.com/j-min/tf_tutorial_plus/tree/master/RNN_seq2seq/contrib_seq2seq](https://github.com/j-min/tf_tutorial_plus/tree/master/RNN_seq2seq/contrib_seq2seq) - Tutorials for TensorFlow APIs the official documentation doesn't cover.
-
 
 
 
@@ -224,24 +200,20 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 - [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn) - Faster Regional Convolutional Neural Network
 
 
-- [https://github.com/balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow) - Single Shot MultiBox Detector in TensorFlow.
 
 
 
 
 
 
-### Style Transfer
 
-- [Must Check] [https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - Implementation combining [Gatys et al](https://arxiv.org/abs/1508.06576), [Johnson et al](http://cs.stanford.edu/people/jcjohns/eccv16/), and [Ulyanov et al](https://arxiv.org/abs/1607.08022).
 
-- [Must Check] [https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb) - Implementation of [Gatys et al](https://arxiv.org/abs/1508.06576) with tutorial.
+### Generative Adversarial Networks
 
-- [Must Check] [https://github.com/cysmith/neural-style-tf](https://github.com/cysmith/neural-style-tf) - Implementation of [Gatys et al](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), [Ruder et al](https://arxiv.org/abs/1604.08610), [Gatys et al](https://arxiv.org/abs/1606.05897).
+- [https://github.com/carpedm20/DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow) - A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"
 
-- [https://github.com/anishathalye/neural-style](https://github.com/anishathalye/neural-style) - Implementation of [Gatys et al](https://arxiv.org/abs/1508.06576).
 
-- [https://github.com/chentinghao/image-style-transfer](https://github.com/chentinghao/image-style-transfer) - My style transfer tutorial combining the first and second repository.
+
 
 
 
@@ -249,6 +221,10 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 ### Reinforcement Learning
 
 - [https://github.com/dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
+
+
+
+
 
 
 
@@ -265,12 +241,6 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 
 
-
-
-
-### OpenCV
-
-- [OpenCV Python Neural Network Autonomous RC Car](https://github.com/hamuchiwa/AutoRCCar) - A toy autonomous car built by opencv
 
 
 ### Data Science
@@ -305,6 +275,14 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 - [https://github.com/ypwhs/dogs_vs_cats](https://github.com/ypwhs/dogs_vs_cats) - [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats)
 
+
+
+### Autonomous Driving Car
+
+- [Autonomous Driving using End-to-End Deep Learning: an AirSim tutorial](https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning) - Microsoft autonomous driving tutorial.
+
+
+
 ### Capsules Net
 
 - [https://github.com/XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
@@ -320,13 +298,6 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 
 
-## Github Repositories (PySpark)
-
-- [https://github.com/jadianes/spark-py-notebooks](https://github.com/jadianes/spark-py-notebooks) - Apache Spark & Python (pySpark) tutorials for Big Data Analysis and Machine Learning as IPython / Jupyter notebooks
-
-- [https://github.com/Azure/mmlspark](https://github.com/Azure/mmlspark) - Microsoft Machine Learning for Apache Spark
-
-- [https://github.com/lensacom/sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn = Sparkit-learn
 
 
 
@@ -360,31 +331,16 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 ## Blog
 
-### Deep Learning
-
 - [Must Check] [Colah's blog](http://colah.github.io/) - The best blog to give you the intuition of deep learning. New post will be located on [Distill](https://distill.pub/).
 
 - [Must Check] [Distill](https://distill.pub/) - The best blog to visualize and understand deep learning.
 
 - [Must Check] [機器之心](https://www.jiqizhixin.com/) - The best media for Machine Learning (in Chinese)
 
+- [Must Check] [Deep Learning Monitor](https://deeplearn.org/) - Hot topics include tweets, papers, and others.
+
 - [Google Research Blog](https://research.googleblog.com/) - Show the latest research of Google.
 
-- [Data Science and Robots](https://brohrer.github.io/blog.html)
-
-- [Adit Deshpande's blog](https://adeshpande3.github.io/) - Reviews of deep learning with many great references
-
-- [Machine Learning Course Notes](http://www.holehouse.org/mlclass/) - This is the notes taken from Machine Learning course on Coursera.
-
-- [Andrej Karpathy blog](http://karpathy.github.io/) - Too bad he didn't update anymore, however you can follow him on [twitter](https://twitter.com/karpathy?lang=en) and [medium](https://medium.com/@karpathy).
-
-- [Hinton's blog](https://www.cs.toronto.edu/~hinton/)
-
-- [莫煩PYTHON](https://morvanzhou.github.io/) - Some easy understanding tutorials post by mofan (in Chinese)
-
-- [大トロ](http://blog.otoro.net/) - This is where design hits on deep learning
-
-- [Shan Carter's Website](http://shancarter.com/) - Visualize data
 
 
 
@@ -396,9 +352,10 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 
 ## Books
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Example codes for IPython, NumPy, Pandas, Matplotlib.
 
-[Ian Goodfellow and Yoshua Bengio and Aaron Courville's book](http://www.deeplearningbook.org/) - Fundamental knowledge of deep learning, also known as a bible in deep learning. As a bible, it also means it is hard to read.
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Example codes for IPython, NumPy, Pandas, Matplotlib.
+
+- [Ian Goodfellow and Yoshua Bengio and Aaron Courville's book](http://www.deeplearningbook.org/) - Fundamental knowledge of deep learning, also known as a bible in deep learning. As a bible, it also means it is hard to read.
 
 
 
@@ -521,19 +478,6 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 
 - [https://pjreddie.com/darknet/imagenet/](https://pjreddie.com/darknet/imagenet/) - Models on image net
 
-
-
-
-## Deep Learning System Design
-
-### [Apache Spark](https://spark.apache.org/) --- Spark is amazing for in-memory and iterative computing. The key benefit it offers is caching intermediate data in-memory for better access times.
-
-
-### Real World Examples 
-
-- [Google Cloud Architecture Incredible On Pertaining To Running Distributed TensorFlow Compute Engine Solutions](http://donatz.info/google-cloud-architecture/google-cloud-architecture-incredible-on-pertaining-to-running-distributed-tensorflow-compute-engine-solutions-26/)
-
-- [EyeEm's Architecture](http://highscalability.com/blog/2017/10/23/one-model-at-a-time-integrating-and-running-deep-learning-mo.html)
 
 
 
