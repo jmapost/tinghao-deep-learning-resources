@@ -6,6 +6,7 @@ This README is how and where I learn deep learning from the internet. There are 
 
 Learning is a long path of work. When I am learning deep learning, sometimes I just couldn't understand some terminology. The strategy to tackle this problem is to read more regarding to the same topic. Some articles assume you know the knowledge (unfortunately, you are not), and skip the details of it. Therefore I would suggest to read more until you understand it. This approach is somehow similar to the training in supervised learning. More data you feed in the training, better performance you'll attain. The resources listed below have some overlap knowledge, so read fast the part you already know and deep into the one you don't. Enjoy!
 
+Note: I pust some out of date resources in Past Resources, however some of them are still worth check especially for people who are not familiar with some topics.
 
 
 ## Table of Content
@@ -13,6 +14,8 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 - [Courses](https://github.com/chentinghao/tinghao-deep-learning-resources#courses)
 
 - [Post](https://github.com/chentinghao/tinghao-deep-learning-resources#post)
+
+- [Paper and Code](https://github.com/chentinghao/tinghao-deep-learning-resources#paper-and-code)
 
 - [Github Repositories (TensorFlow Based)](https://github.com/chentinghao/tinghao-deep-learning-resources#github-repositories-tensorflow-based)
 
@@ -130,8 +133,13 @@ Learning is a long path of work. When I am learning deep learning, sometimes I j
 
 
 
+## Paper and Code
 
+- [arXiv](https://arxiv.org) - Paper.
 
+- [arXiv-Sanity](http://www.arxiv-sanity.com/) - Paper.
+
+- [Gitxiv](http://www.gitxiv.com/) - Source code for paper from arXive.
 
 
 
