@@ -92,6 +92,10 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 ## Post
 
+### Learning List
+
+- [2018学习清单](https://www.leiphone.com/news/201801/pM48Ekleds2b6j5i.html?ulu-rcmd=1_5021df_hot_3_19666c7f4149426ab82ef73c987d5d6c) - 
+
 
 ### Convolutional Neural Network
 
@@ -109,8 +113,9 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 - [Must Check] [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/) - The best explanation of attention mechanism.
 
 
+### Generative Adversarial Network
 
-
+- [Fantastic GANs and where to find them](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them) - List and compare different GANs.
 
 
 
@@ -404,6 +409,11 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 ### [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge)
 
 - [https://github.com/ternaus/TernausNet](https://github.com/ternaus/TernausNet) - 1st place.
+
+
+### [Amazon Fine Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
+
+- [https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews](https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews)
 
 
 ### [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)

@@ -313,6 +313,9 @@
 ### [Apache Spark](https://spark.apache.org/) --- Spark is amazing for in-memory and iterative computing. The key benefit it offers is caching intermediate data in-memory for better access times.
 
 
+### [Spark for Social Science](https://urbaninstitute.github.io/spark-social-science-manual/) - PySpark tutorials.
+
+
 ### Real World Examples 
 
 - [Google Cloud Architecture Incredible On Pertaining To Running Distributed TensorFlow Compute Engine Solutions](http://donatz.info/google-cloud-architecture/google-cloud-architecture-incredible-on-pertaining-to-running-distributed-tensorflow-compute-engine-solutions-26/)
