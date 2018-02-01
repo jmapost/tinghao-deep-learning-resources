@@ -3,27 +3,29 @@
 
 ## Table of Content
 
-- [Courses](https://github.com/chentinghao/tinghao-deep-learning-resources#courses)
+- [Courses](https://github.com/chentinghao/for_begineer#courses)
 
-- [Post](https://github.com/chentinghao/tinghao-deep-learning-resources#post)
+- [Post](https://github.com/chentinghao/for_begineer#post)
 
-- [Github Repositories (TensorFlow Based)](https://github.com/chentinghao/tinghao-deep-learning-resources#github-repositories-tensorflow-based)
+- [Github Repositories (TensorFlow Based)](https://github.com/chentinghao/for_begineer#github-repositories-tensorflow-based)
 
-- [Github Repositories (Keras Based)](https://github.com/chentinghao/tinghao-deep-learning-resources#github-repositories-keras-based)
+- [Github Repositories (Keras Based)](https://github.com/chentinghao/for_begineer#github-repositories-keras-based)
 
-- [Github Repositories (PySpark)](https://github.com/chentinghao/tinghao-deep-learning-resources#github-repositories-pyspark)
+- [Github Repositories (PySpark)](https://github.com/chentinghao/for_begineer#github-repositories-pyspark)
 
-- [Deep Learning Framework](https://github.com/chentinghao/tinghao-deep-learning-resources#deep-learning-framework)
+- [Deep Learning Framework](https://github.com/chentinghao/for_begineer#deep-learning-framework)
 
-- [Blog](https://github.com/chentinghao/tinghao-deep-learning-resources#blog)
+- [Blog](https://github.com/chentinghao/for_begineer#blog)
 
-- [Deep Learning System Design](https://github.com/chentinghao/tinghao-deep-learning-resources#deep-learning-system-design)
+- [Spark (especially PySpark)](https://github.com/chentinghao/for_begineer#spark-especially-pyspark)
 
-- [My Blog](https://github.com/chentinghao/tinghao-deep-learning-resources#my-blog)
+- [R Tutorials](https://github.com/chentinghao/for_begineer#r-tutorials)
 
-- [Connect Me](https://github.com/chentinghao/tinghao-deep-learning-resources#connect-me)
+- [My Blog](https://github.com/chentinghao/for_begineer#my-blog)
 
-- [Python for Data Science Cheat Sheet](https://github.com/chentinghao/tinghao-deep-learning-resources#python-for-data-science-cheat-sheet)
+- [Connect Me](https://github.com/chentinghao/for_begineer#connect-me)
+
+- [Python for Data Science Cheat Sheet](https://github.com/chentinghao/for_begineer#python-for-data-science-cheat-sheet)
 
 
 
@@ -250,7 +252,12 @@
 
 - [Must Check] [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/) - Steps by steps teach you how to implement TensorFlow on some tasks. This is the starting point of learning TensorFlow.
 
+- [Must Check] [TensorFlow Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.39326&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) - Visualize the result of deep neural network.
+
 - [CS 20: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html) by Chip Huyen at Stanford - TensorFlow course for Stanford students
+
+- [Google Code Labs Tutorials](https://codelabs.developers.google.com/?cat=TensorFlow) - Hands on tutorials by Google
+
 
 ### DialogFlow
 
@@ -308,12 +315,14 @@
 
 
 
-## Deep Learning System Design
+## Spark (especially PySpark)
 
-### [Apache Spark](https://spark.apache.org/) --- Spark is amazing for in-memory and iterative computing. The key benefit it offers is caching intermediate data in-memory for better access times.
+Spark is amazing for in-memory and iterative computing. The key benefit it offers is caching intermediate data in-memory for better access times.
 
+- [Apache Spark](https://spark.apache.org/) - Official site.
 
-### [Spark for Social Science](https://urbaninstitute.github.io/spark-social-science-manual/) - PySpark tutorials.
+- [https://github.com/drabastomek](https://github.com/drabastomek) - Learning PySpark book with its source code.
+
 
 
 ### Real World Examples 
@@ -327,6 +336,9 @@
 
 
 
+## R Tutorials
+
+- [https://github.com/ujjwalkarn/DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - All you need to master in R.
 
 
 

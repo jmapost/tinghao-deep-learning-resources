@@ -127,13 +127,11 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 
 
-
-
-
-
 ### Debug
 
 - [Debugging Neural Networks: A Checklist](https://engineering.semantics3.com/debugging-neural-networks-a-checklist-ca52e11151ec)
+
+
 
 
 
@@ -481,7 +479,9 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 
 - [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
 
+### Multiply
 
+- [UCI Dataset](https://archive.ics.uci.edu/ml/datasets.html)
 
 
 
