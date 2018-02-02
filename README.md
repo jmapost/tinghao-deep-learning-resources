@@ -43,7 +43,7 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [My Blog](https://github.com/chentinghao/tinghao-deep-learning-resources#my-blog)
 
-- [Connect Me](https://github.com/chentinghao/tinghao-deep-learning-resources#connect-me)
+- [Contact Me](https://github.com/chentinghao/tinghao-deep-learning-resources#contact-me)
 
 - [Python for Data Science Cheat Sheet](https://github.com/chentinghao/tinghao-deep-learning-resources#python-for-data-science-cheat-sheet)
 
@@ -94,8 +94,14 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 ### Learning List
 
-- [2018学习清单](https://www.leiphone.com/news/201801/pM48Ekleds2b6j5i.html?ulu-rcmd=1_5021df_hot_3_19666c7f4149426ab82ef73c987d5d6c) - 
+- [2018 Learning List](https://www.leiphone.com/news/201801/pM48Ekleds2b6j5i.html?ulu-rcmd=1_5021df_hot_3_19666c7f4149426ab82ef73c987d5d6c)
 
+
+### Deep Learning
+
+- [Must Check] [Deep Learning Specialization by Andrew Ng — 21 Lessons Learned](https://towardsdatascience.com/deep-learning-specialization-by-andrew-ng-21-lessons-learned-15ffaaef627c) - Great review of Andrew's deep learning courses.
+
+- [Must Check] [Computer Vision by Andrew Ng — 11 Lessons Learned](https://towardsdatascience.com/computer-vision-by-andrew-ng-11-lessons-learned-7d05c18a6999) - Another great review of Andrew's deep learning courses.
 
 ### Convolutional Neural Network
 
@@ -526,7 +532,7 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 
 
 
-## Connect Me 
+## Contact Me 
 
 LinkedIn: [https://www.linkedin.com/in/chentinghao/](https://www.linkedin.com/in/chentinghao/)
 

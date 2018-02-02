@@ -3,30 +3,29 @@
 
 ## Table of Content
 
-- [Courses](https://github.com/chentinghao/for_begineer#courses)
+- [Courses](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#courses)
 
-- [Post](https://github.com/chentinghao/for_begineer#post)
+- [Post](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#post)
 
-- [Github Repositories (TensorFlow Based)](https://github.com/chentinghao/for_begineer#github-repositories-tensorflow-based)
+- [Github Repositories (TensorFlow Based)](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#github-repositories-tensorflow-based)
 
-- [Github Repositories (Keras Based)](https://github.com/chentinghao/for_begineer#github-repositories-keras-based)
+- [Github Repositories (Keras Based)](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#github-repositories-keras-based)
 
-- [Github Repositories (PySpark)](https://github.com/chentinghao/for_begineer#github-repositories-pyspark)
+- [Github Repositories (PySpark)](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#github-repositories-pyspark)
 
-- [Deep Learning Framework](https://github.com/chentinghao/for_begineer#deep-learning-framework)
+- [Deep Learning Framework](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#deep-learning-framework)
 
-- [Blog](https://github.com/chentinghao/for_begineer#blog)
+- [Blog](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#blog)
 
-- [Spark (especially PySpark)](https://github.com/chentinghao/for_begineer#spark-especially-pyspark)
+- [Spark (especially PySpark)](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#spark-especially-pyspark)
 
-- [R Tutorials](https://github.com/chentinghao/for_begineer#r-tutorials)
+- [R Tutorials](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#r-tutorials)
 
-- [My Blog](https://github.com/chentinghao/for_begineer#my-blog)
+- [My Blog](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#my-blog)
 
-- [Connect Me](https://github.com/chentinghao/for_begineer#connect-me)
+- [Contact Me](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#connect-me)
 
-- [Python for Data Science Cheat Sheet](https://github.com/chentinghao/for_begineer#python-for-data-science-cheat-sheet)
-
+- [Python for Data Science Cheat Sheet]()
 
 
 
@@ -37,6 +36,8 @@
 ### Begineer Level
 
 - [Must Check] [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera - This course is considered the MUST take if you wanna learn machine learning. Andrew uses easy understanding knowledge to bring you to the machine learning world.
+
+- [Must Check] [DeepLearning.ai](https://www.coursera.org/specializations/deep-learning) by Andrew Ng on Coursera. There are total 5 courses which give you great intuition of how neural network works. 
 
 - [Deep learning by Google](https://www.udacity.com/course/deep-learning--ud730) - Google employee teach you deep learning on Udacity.
 
@@ -340,7 +341,9 @@ Spark is amazing for in-memory and iterative computing. The key benefit it offer
 
 - [https://github.com/ujjwalkarn/DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - All you need to master in R.
 
+- [https://github.com/qinwf/awesome-R](https://github.com/qinwf/awesome-R) - Awesome R.
 
+- [r-statistics.co](http://r-statistics.co/) - Some example code.
 
 ## My Blog
 
