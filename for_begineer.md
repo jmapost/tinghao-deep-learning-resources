@@ -1,4 +1,4 @@
-# My Deep Learning Past Resources
+# Deep Learning Resources for Begineers
 
 
 ## Table of Content

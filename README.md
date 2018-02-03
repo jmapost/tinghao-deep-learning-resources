@@ -166,6 +166,8 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [Must Check][https://github.com/jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - Awesome TensorFlow
 
+- [https://github.com/Kulbear/deep-learning-coursera](https://github.com/Kulbear/deep-learning-coursera) - Homework of deep learning courses on Coursera by Andrew Ng.
+
 - [https://github.com/udacity/deep-learning](https://github.com/udacity/deep-learning) - Repo for Udacity Deep Learning Nanodegree Foundations program.
 
 - [https://github.com/nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) - Simple tutorials using TensorFlow Framework.
@@ -292,6 +294,10 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [https://github.com/ypwhs/dogs_vs_cats](https://github.com/ypwhs/dogs_vs_cats) - [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats)
 
+
+### Recurrent Neural Network
+
+- [https://github.com/Kulbear/stock-prediction](https://github.com/Kulbear/stock-prediction)
 
 
 ### Autonomous Driving Car
