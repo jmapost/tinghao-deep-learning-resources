@@ -202,6 +202,9 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [https://github.com/udacity/deep-learning/tree/master/seq2seq](https://github.com/udacity/deep-learning/tree/master/seq2seq) - Udacity sequence to sequence tutorials.
 
+
+- [https://github.com/facebookresearch/fastText/](https://github.com/facebookresearch/fastText/) - Facebook Research Library for Fast Text Representation and Classification.
+
 - [https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews](https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews) - A seq2seq model that can generate summaries from fine food reviews on Amazon.
 
 - [https://github.com/Disiok/poetry-seq2seq](https://github.com/Disiok/poetry-seq2seq) - Chinese Poetry Generation.
@@ -354,11 +357,13 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 ## Blog
 
+- [Must Check] [機器之心](https://www.jiqizhixin.com/) - The best media for Machine Learning (in Chinese)
+
+- [Must Check] [Toward Data Science](https://towardsdatascience.com/) - Great post regarding data science on Medium.
+
 - [Must Check] [Colah's blog](http://colah.github.io/) - The best blog to give you the intuition of deep learning. New post will be located on [Distill](https://distill.pub/).
 
 - [Must Check] [Distill](https://distill.pub/) - The best blog to visualize and understand deep learning.
-
-- [Must Check] [機器之心](https://www.jiqizhixin.com/) - The best media for Machine Learning (in Chinese)
 
 - [Must Check] [Deep Learning Monitor](https://deeplearn.org/) - Hot topics include tweets, papers, and others.
 
@@ -508,7 +513,7 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 
 - [https://pjreddie.com/darknet/imagenet/](https://pjreddie.com/darknet/imagenet/) - Models on image net
 
-
+- [English word vectors](https://fasttext.cc/) - Pre-trained word to vector models by Facebook.
 
 
 
