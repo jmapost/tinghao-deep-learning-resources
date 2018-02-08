@@ -513,11 +513,13 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 
 - [https://pjreddie.com/darknet/imagenet/](https://pjreddie.com/darknet/imagenet/) - Models on image net
 
+### Word-to-vector Models
+
 - [English word vectors](https://fasttext.cc/) - Pre-trained word to vector models by Facebook.
 
+- [https://github.com/3Top/word2vec-api](https://github.com/3Top/word2vec-api)
 
-
-
+- [https://github.com/Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors)
 
 
 ## AI Companies

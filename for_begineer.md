@@ -19,6 +19,8 @@
 
 - [Spark (especially PySpark)](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#spark-especially-pyspark)
 
+- [Python Tutorials](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#python-tutorials)
+
 - [R Tutorials](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#r-tutorials)
 
 - [My Blog](https://github.com/chentinghao/tinghao-deep-learning-resources/blob/master/for_begineer.md#my-blog)
@@ -51,6 +53,10 @@
 ### Reinforcement Learning
 
 - [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver at UCL - Big giant of reinforcement learning. This course was taught when David Silver is at UCL.
+
+
+
+
 
 
 
@@ -102,8 +108,6 @@
 
 
 
-
-
 ### Reinforcement Learning
 
 - [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/) - Nice examples with explanation
@@ -111,20 +115,20 @@
 
 
 
-### How to win Kaggle
+### How to Win Kaggle
 
 - [Winning Tips on Machine Learning Competitions by Kazanova](http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3?spm=5176.100239.blogcont73757.26.GHAv73)
 
 - [教你如何在机器学习竞赛中更胜一筹](http://www.deeplearn.me/960.html)
 
 
-
-
-
-
 ### Self-study Guide
 
 - [My 3 Month Deep Learning Career Pivot](https://towardsdatascience.com/my-3-month-deep-learning-career-pivot-af94cd8d6a31)
+
+
+
+
 
 
 
@@ -140,17 +144,9 @@
 
 
 
-
-
-
 ### Recurrent Neural Network
 
 - [https://github.com/hardmaru/write-rnn-tensorflow](https://github.com/hardmaru/write-rnn-tensorflow) - Generative Handwriting using LSTM Mixture Density Network with TensorFlow
-
-
-
-
-
 
 
 ### Sequence to Sequence
@@ -159,18 +155,9 @@
 
 
 
-
-
-
-
-
-
 ### Object Detection
 
 - [https://github.com/balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow) - Single Shot MultiBox Detector in TensorFlow.
-
-
-
 
 
 
@@ -185,10 +172,6 @@
 - [https://github.com/anishathalye/neural-style](https://github.com/anishathalye/neural-style) - Implementation of [Gatys et al](https://arxiv.org/abs/1508.06576).
 
 - [https://github.com/chentinghao/image-style-transfer](https://github.com/chentinghao/image-style-transfer) - My style transfer tutorial combining the first and second repository.
-
-
-
-
 
 
 
@@ -234,6 +217,9 @@
 
 
 
+
+
+
 ## Github Repositories (PySpark)
 
 - [https://github.com/nchammas/flintrock](https://github.com/nchammas/flintrock) - How to quickly deploy Spark on Amazon Web Service.
@@ -243,6 +229,11 @@
 - [https://github.com/Azure/mmlspark](https://github.com/Azure/mmlspark) - Microsoft Machine Learning for Apache Spark
 
 - [https://github.com/lensacom/sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn = Sparkit-learn
+
+
+
+
+
 
 
 
@@ -335,6 +326,22 @@ Spark is amazing for in-memory and iterative computing. The key benefit it offer
 
 
 
+## Python Tutorials
+
+- [http://docs.python-guide.org/en/latest/intro/learning/#learn-python-for-data-science-interactively](http://docs.python-guide.org/en/latest/intro/learning/#learn-python-for-data-science-interactively)
+
+- [Code Cademy](https://www.codecademy.com/learn/learn-python)
+
+- [Python Programming Net](https://pythonprogramming.net/)
+
+- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
+
+- [Google's Python Class](https://developers.google.com/edu/python/)
+
+
+
+
+
 
 
 ## R Tutorials
@@ -344,6 +351,23 @@ Spark is amazing for in-memory and iterative computing. The key benefit it offer
 - [https://github.com/qinwf/awesome-R](https://github.com/qinwf/awesome-R) - Awesome R.
 
 - [r-statistics.co](http://r-statistics.co/) - Some example code.
+
+- [Pandas vs R](http://datascience-enthusiast.com/R/pandas_datatable.html)
+
+
+
+
+
+
+## Probability and Statistics
+
+- [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/wp/think-stats-2e/) -  It's specifically helpful for machine learning since it emphasizes applications with real datasets and incorporates exercises in Python.
+
+
+
+
+
+
 
 ## My Blog
 
