@@ -7,7 +7,9 @@
 
 ## Post
 
-- [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
+- [Xgboost] [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
+
+- [Clustering] [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
 
 
 ## Github
@@ -71,6 +73,7 @@
 
 - [教你如何在机器学习竞赛中更胜一筹](http://www.deeplearn.me/960.html)
 
+- [XGBoost Demo](https://github.com/dmlc/xgboost/tree/master/demo)
 
 
 ## My Blog

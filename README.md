@@ -130,33 +130,21 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [RL] [https://github.com/dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
 
+- [Object Detection] [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
 
-### Object Detection
+- [Object Detection] [https://github.com/CharlesShang/FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN) - Mask Regional Convolutional Neural Network (TensorFlow)
 
-- [https://github.com/pjreddie/darknet](https://github.com/pjreddie/darknet)
+- [Object Detection] [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn) - Faster Regional Convolutional Neural Network
 
-- [https://github.com/CharlesShang/FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN) - Mask Regional Convolutional Neural Network (TensorFlow)
+- [Capsules Net] [https://github.com/naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) - A Tensorflow implementation of CapsNet(Capsules Net) in Hinton's paper Dynamic Routing Between Capsules.
 
-- [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn) - Faster Regional Convolutional Neural Network
+- [Self-driving Car] [https://github.com/udacity/self-driving-car](https://github.com/udacity/self-driving-car) - Udacity self-driving car project
 
+- [Style Transfer] [https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - Implementation combining [Gatys et al](https://arxiv.org/abs/1508.06576), [Johnson et al](http://cs.stanford.edu/people/jcjohns/eccv16/), and [Ulyanov et al](https://arxiv.org/abs/1607.08022).
 
-### Capsules Net
+- [Style Transfer] [https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb) - Implementation of [Gatys et al](https://arxiv.org/abs/1508.06576) with tutorial.
 
-- [https://github.com/naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) - A Tensorflow implementation of CapsNet(Capsules Net) in Hinton's paper Dynamic Routing Between Capsules.
-
-
-### Self-driving car
-
-- [https://github.com/udacity/self-driving-car](https://github.com/udacity/self-driving-car) - Udacity self-driving car project
-
-
-### Style Transfer
-
-- [https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - Implementation combining [Gatys et al](https://arxiv.org/abs/1508.06576), [Johnson et al](http://cs.stanford.edu/people/jcjohns/eccv16/), and [Ulyanov et al](https://arxiv.org/abs/1607.08022).
-
-- [https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb) - Implementation of [Gatys et al](https://arxiv.org/abs/1508.06576) with tutorial.
-
-- [https://github.com/cysmith/neural-style-tf](https://github.com/cysmith/neural-style-tf) - Implementation of [Gatys et al](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), [Ruder et al](https://arxiv.org/abs/1604.08610), [Gatys et al](https://arxiv.org/abs/1606.05897).
+- [Style Transfer] [https://github.com/cysmith/neural-style-tf](https://github.com/cysmith/neural-style-tf) - Implementation of [Gatys et al](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), [Ruder et al](https://arxiv.org/abs/1604.08610), [Gatys et al](https://arxiv.org/abs/1606.05897).
 
 
 
@@ -172,31 +160,17 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 ## Github Repositories (Keras Based)
 
-### Multi-topics
+- [Tutorials] [https://github.com/keras-team/keras/tree/master/examples](https://github.com/keras-team/keras/tree/master/examples) - Keras official examples.
 
-- [Must Check] [https://github.com/keras-team/keras/tree/master/examples](https://github.com/keras-team/keras/tree/master/examples) - Keras official examples.
+- [Tutorials] [https://github.com/PacktPublishing/Deep-Learning-with-Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras) - Code repository for Deep Learning with Keras published by Packt.
 
-- [Must Check] [https://github.com/PacktPublishing/Deep-Learning-with-Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras) - Code repository for Deep Learning with Keras published by Packt.
+- [CNN] [https://github.com/ypwhs/dogs_vs_cats](https://github.com/ypwhs/dogs_vs_cats) - [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats)
 
+- [RNN] [https://github.com/Kulbear/stock-prediction](https://github.com/Kulbear/stock-prediction)
 
-### Convolutional Neural Network
+- [Self-driving Car] [Autonomous Driving using End-to-End Deep Learning: an AirSim tutorial](https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning) - Microsoft autonomous driving tutorial.
 
-- [https://github.com/ypwhs/dogs_vs_cats](https://github.com/ypwhs/dogs_vs_cats) - [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats)
-
-
-### Recurrent Neural Network
-
-- [https://github.com/Kulbear/stock-prediction](https://github.com/Kulbear/stock-prediction)
-
-
-### Autonomous Driving Car
-
-- [Autonomous Driving using End-to-End Deep Learning: an AirSim tutorial](https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning) - Microsoft autonomous driving tutorial.
-
-
-### Capsules Net
-
-- [https://github.com/XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
+- [Capsules Net] [https://github.com/XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
 
 
 
@@ -206,9 +180,7 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 ## Github Repositories (Caffe2 Based)
 
-### Object Detection
-
-- [https://github.com/facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
+- [Object Detection] [https://github.com/facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 
 
 
@@ -235,21 +207,15 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 ## Deep Learning Framework
 
-### TensorFlow
+- [TensorFlow] [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/) - Steps by steps teach you how to implement TensorFlow on some tasks. This is the starting point of learning TensorFlow.
 
-- [Must Check] [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/) - Steps by steps teach you how to implement TensorFlow on some tasks. This is the starting point of learning TensorFlow.
+- [TensorFlow] [CS 20: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html) by Chip Huyen at Stanford - TensorFlow course for Stanford students
 
-- [CS 20: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html) by Chip Huyen at Stanford - TensorFlow course for Stanford students
+- [DialogFlow](https://dialogflow.com/docs/getting-started/basics)
 
-### DialogFlow
+- [MXNet](https://mxnet.incubator.apache.org/tutorials/index.html)
 
-- [DialogFlow Docs](https://dialogflow.com/docs/getting-started/basics)
-
-### MXNet
-
-- [MXNet Tutorials](https://mxnet.incubator.apache.org/tutorials/index.html)
-
-[Deep Learning for Java](https://deeplearning4j.org/tutorials)
+- [Deep Learning for Java](https://deeplearning4j.org/tutorials)
 
 
 
@@ -262,15 +228,15 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 ## Blog
 
-- [Must Check] [機器之心](https://www.jiqizhixin.com/) - The best media for Machine Learning (in Chinese)
+- [機器之心](https://www.jiqizhixin.com/) - The best media for Machine Learning (in Chinese)
 
-- [Must Check] [Toward Data Science](https://towardsdatascience.com/) - Great post regarding data science on Medium.
+- [Toward Data Science](https://towardsdatascience.com/) - Great post regarding data science on Medium.
 
-- [Must Check] [Colah's blog](http://colah.github.io/) - The best blog to give you the intuition of deep learning. New post will be located on [Distill](https://distill.pub/).
+- [Colah's blog](http://colah.github.io/) - The best blog to give you the intuition of deep learning. New post will be located on [Distill](https://distill.pub/).
 
-- [Must Check] [Distill](https://distill.pub/) - The best blog to visualize and understand deep learning.
+- [Distill](https://distill.pub/) - The best blog to visualize and understand deep learning.
 
-- [Must Check] [Deep Learning Monitor](https://deeplearn.org/) - Hot topics include tweets, papers, and others.
+- [Deep Learning Monitor](https://deeplearn.org/) - Hot topics include tweets, papers, and others.
 
 - [Google Research Blog](https://research.googleblog.com/) - Show the latest research of Google.
 
@@ -283,7 +249,7 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 ## Books
 
-- [Ian Goodfellow and Yoshua Bengio and Aaron Courville's book](http://www.deeplearningbook.org/) - Fundamental knowledge of deep learning, also known as a bible in deep learning. As a bible, it also means it is hard to read.
+- [Deep Learning Book](http://www.deeplearningbook.org/) - Fundamental knowledge of deep learning, also known as a bible in deep learning. As a bible, it also means it is hard to read.
 
 
 
@@ -295,24 +261,24 @@ Kaggle Past Solutions --- [http://ndres.me/kaggle-past-solutions/](http://ndres.
 
 Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://github.com/krishnakalyan3/awesome-kaggle)
 
-### [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
+[Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
 
 - [https://github.com/Arturus/kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic) - 1st place.
 
 - [https://github.com/jfpuget/Kaggle](https://github.com/jfpuget/Kaggle) - 2nd place.
 
 
-### [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge)
+[Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge)
 
 - [https://github.com/ternaus/TernausNet](https://github.com/ternaus/TernausNet) - 1st place.
 
 
-### [Amazon Fine Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
+[Amazon Fine Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 
 - [https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews](https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews)
 
 
-### [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
+[New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
 
 - [https://github.com/LightR0/New-York-City-Taxi-Trip-Duration](https://github.com/LightR0/New-York-City-Taxi-Trip-Duration)
 
@@ -322,11 +288,11 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 
 - [https://github.com/kqdmqx/kaggle-New-York-City-Taxi-Trip-Duration](https://github.com/kqdmqx/kaggle-New-York-City-Taxi-Trip-Duration)
 
-### [Telstra Network Disruptions](https://www.kaggle.com/c/telstra-recruiting-network)
+[Telstra Network Disruptions](https://www.kaggle.com/c/telstra-recruiting-network)
 
 - [https://github.com/aarshayj/Kaggle](https://github.com/aarshayj/Kaggle)
 
-### [Loan Default Prediction](https://www.kaggle.com/c/loan-default-prediction)
+[Loan Default Prediction](https://www.kaggle.com/c/loan-default-prediction)
 
 - [https://github.com/BernardOng/kaggle-consumer-credit-default](https://github.com/BernardOng/kaggle-consumer-credit-default)
 
@@ -361,26 +327,17 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 
 ## Dataset
 
-### Image
-
-- [IMAGE NET](http://www.image-net.org/) - With 14,197,122 images, 21841 synsets indexed
-
-- [The CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) - The CIFAR-10 and CIFAR-100 are labeled subsets of the 80 million tiny images dataset.
-
-### Object Detection and Semantic Segmentation
-
-- [http://cocodataset.org/#home](http://cocodataset.org/#home) - COCO is a large-scale object detection, segmentation, and captioning dataset. 
-
-- [PASCAL-Context](https://www.cs.stanford.edu/~roozbeh/pascal-context/) - Training and validation contains 10,103 images while testing contains 9,637 images.
-
-### Object Detection or Tracking Benchmarks
-
-- [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
-
-### Multiply
-
 - [UCI Dataset](https://archive.ics.uci.edu/ml/datasets.html)
 
+- [Image] [IMAGE NET](http://www.image-net.org/) - With 14,197,122 images, 21841 synsets indexed
+
+- [Image] [The CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) - The CIFAR-10 and CIFAR-100 are labeled subsets of the 80 million tiny images dataset.
+
+- [Object Detection] [http://cocodataset.org/#home](http://cocodataset.org/#home) - COCO is a large-scale object detection, segmentation, and captioning dataset. 
+
+- [Object Detection] [PASCAL-Context](https://www.cs.stanford.edu/~roozbeh/pascal-context/) - Training and validation contains 10,103 images while testing contains 9,637 images.
+
+- [Object Detection] [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
 
 
 
@@ -390,17 +347,15 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 
 ## Pre-trained Models
 
-- [http://www.vlfeat.org/matconvnet/models/](http://www.vlfeat.org/matconvnet/models/) - AlexNet, VGG16, VGG19, GoogleNet, ResNet on image net, fast Regional Convolutional Neural Network on pascal (matlab file)
+- [Image] [http://www.vlfeat.org/matconvnet/models/](http://www.vlfeat.org/matconvnet/models/) - AlexNet, VGG16, VGG19, GoogleNet, ResNet on image net, fast Regional Convolutional Neural Network on pascal (matlab file)
 
-- [https://pjreddie.com/darknet/imagenet/](https://pjreddie.com/darknet/imagenet/) - Models on image net
+- [Image] [https://pjreddie.com/darknet/imagenet/](https://pjreddie.com/darknet/imagenet/) - Models on image net
 
-### Word-to-vector Models
+- [word2vec] [English word vectors](https://fasttext.cc/) - Pre-trained word to vector models by Facebook.
 
-- [English word vectors](https://fasttext.cc/) - Pre-trained word to vector models by Facebook.
+- [[word2vec]] [https://github.com/3Top/word2vec-api](https://github.com/3Top/word2vec-api)
 
-- [https://github.com/3Top/word2vec-api](https://github.com/3Top/word2vec-api)
-
-- [https://github.com/Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors)
+- [[word2vec]] [https://github.com/Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors)
 
 
 ## AI Companies
@@ -411,8 +366,6 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 
 
 ## Spark (especially PySpark)
-
-Spark is amazing for in-memory and iterative computing. The key benefit it offers is caching intermediate data in-memory for better access times.
 
 - [https://github.com/drabastomek](https://github.com/drabastomek) - Learning PySpark book with its source code.
 
