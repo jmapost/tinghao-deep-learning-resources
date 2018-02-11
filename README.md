@@ -301,6 +301,15 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 
 
 
+## Modeling
+
+- [Ensemble Models](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/)
+
+
+
+
+
+
 
 
 
