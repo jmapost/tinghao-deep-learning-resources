@@ -203,6 +203,13 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 
 
+## Github Repositories (Others)
+
+- [Bayesian Optimization] [https://github.com/fmfn/BayesianOptimization](https://github.com/fmfn/BayesianOptimization)
+
+
+
+
 
 
 ## Deep Learning Framework
