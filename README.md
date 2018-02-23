@@ -50,6 +50,8 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [CNN] [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4) - Overview of Regional Convolutional Neural Network
 
+- [CNN] [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html) - Implementation of transfer learning in Keras.
+
 - [CNN] [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/StarterCode/) - Great tutorials with Matlab code 
 
 - [RNN] [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - The best explanation of Long Short-term Memory.

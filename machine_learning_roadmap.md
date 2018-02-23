@@ -116,7 +116,30 @@ Step 5. Use the validation set as watch_list to re-train the model with the best
 
 
 
-(4) Cross Validation (CV)
+(4) Deep Learning Tunning Tips
+
+(a) Try mini-batch gradient descent.
+
+(b) Try small learning rate at first.
+
+(c) Try ReLU activation function and Adam optimizer at first.
+
+(a) Underfitting (high bias):
+- Deeper Neural Network (more neurons and more layers)
+- Decrease L2 Regularization
+- More Features
+
+(b) Overfitting (high variance):
+- L2 Regularization
+- Dropout
+- Batch Normalization
+- Data Augmentation
+- Gradient Clipping / Early Stopping
+- Esemble Models
+- Reduce Features
+- More Data
+
+(5) Cross Validation (CV)
 
 (a) (Kaggle) Public leader board scores are not consistent with local CV scores due to noise or non ideal distribution. Local CV > public leader board.
 
@@ -124,7 +147,7 @@ Step 5. Use the validation set as watch_list to re-train the model with the best
 
 
 
-(5) Ensemble Models
+(6) Ensemble Models
 
 It reduces both bias and variance of the final model. Base models should be as unrelated as possibly. This is why we tend to include non-tree-based models in the ensemble even though they don’t perform as well. The math says that the greater the diversity, and less bias in the final ensemble. Also, performance of base models shouldn’t differ to much.
 
@@ -146,7 +169,7 @@ Take 5-fold stacking as an example. First we split the training data into 5 fold
 
 
 
-(6) Pipline -> create a highly automated pipeline
+(7) Pipline -> create a highly automated pipeline
 
 (a) Automated grid search / bayesian optimization
 
