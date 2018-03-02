@@ -18,6 +18,9 @@
 - [Google's Python Class](https://developers.google.com/edu/python/)
 
 
+## Libraries
+
+- [Image Augmentation] [https://github.com/aleju/imgaug](https://github.com/aleju/imgaug)
 
 
 ## Crawler

@@ -30,7 +30,7 @@
 
 
 
-## XGBoost
+## Extreme Gradient Boost (XGBoost)
 
 - [Introduction to Boosted Trees Slides](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)
 
@@ -39,9 +39,11 @@
 
 
 
+## Light Gradient Boosting Machine (LightGBM)
 
+- [Documentation](http://lightgbm.readthedocs.io/en/latest/index.html)
 
-
+- [What is LightGBM, How to implement it? How to fine tune the parameters?](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
 
 
 

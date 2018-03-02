@@ -13,6 +13,8 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [DNN] [DeepLearning.ai](https://www.coursera.org/specializations/deep-learning) by Andrew Ng on Coursera. There are total 5 courses which give you great intuition of how neural network works.
 
+- [ML] [Google Machine Learning Crash Course with TensorFlow APIs](https://developers.google.cn/machine-learning/crash-course/)
+
 - [CNN] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/2017/syllabus) by Fei-Fei Li, Justin Johnson and Serena Yeung at Stanford - At the time of this post, the course is taught in 2017. If you want to learn the latest course, just google CS231n.
 
 - [NLP] [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/syllabus.html) by Richard Socher at Stanford
@@ -64,7 +66,7 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [DEBUG] [Debugging Neural Networks: A Checklist](https://engineering.semantics3.com/debugging-neural-networks-a-checklist-ca52e11151ec)
 
-
+- [Tutorial] [教程那么多，你……看完了吗？](https://www.jiqizhixin.com/articles/2018-02-07-3)
 
 
 
@@ -136,7 +138,11 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [Object Detection] [https://github.com/CharlesShang/FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN) - Mask Regional Convolutional Neural Network (TensorFlow)
 
-- [Object Detection] [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn) - Faster Regional Convolutional Neural Network
+- [Faster RCNN] [https://github.com/tryolabs/luminoth](https://github.com/tryolabs/luminoth) - Project Luminoth.
+
+- [Faster RCNN] [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn) - Faster Regional Convolutional Neural Network
+
+- [Mask RCNN] [https://github.com/matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 
 - [Capsules Net] [https://github.com/naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) - A Tensorflow implementation of CapsNet(Capsules Net) in Hinton's paper Dynamic Routing Between Capsules.
 
@@ -167,6 +173,8 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 - [Tutorials] [https://github.com/PacktPublishing/Deep-Learning-with-Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras) - Code repository for Deep Learning with Keras published by Packt.
 
 - [CNN] [https://github.com/ypwhs/dogs_vs_cats](https://github.com/ypwhs/dogs_vs_cats) - [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats)
+
+- [RCNN] [https://github.com/broadinstitute/keras-rcnn](https://github.com/broadinstitute/keras-rcnn)
 
 - [RNN] [https://github.com/Kulbear/stock-prediction](https://github.com/Kulbear/stock-prediction)
 
@@ -357,7 +365,9 @@ Awesome Kaggle --- [https://github.com/krishnakalyan3/awesome-kaggle](https://gi
 
 - [Object Detection] [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
 
+- [AI Challenger](https://challenger.ai/datasets)
 
+- [Others] [Creative Commons license 0](https://creativecommons.org/use-remix/)
 
 
 

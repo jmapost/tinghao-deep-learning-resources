@@ -134,6 +134,7 @@ Step 5. Use the validation set as watch_list to re-train the model with the best
 - Dropout
 - Batch Normalization
 - Data Augmentation
+- Pruning
 - Gradient Clipping / Early Stopping
 - Esemble Models
 - Reduce Features
