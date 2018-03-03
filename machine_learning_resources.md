@@ -11,6 +11,8 @@
 
 - [Clustering] [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
 
+- [Modeling] [Make time-dependent features](https://ianlondon.github.io/blog/encoding-cyclical-features-24hour-time/)
+
 
 ## Github
 
@@ -29,17 +31,15 @@
 
 
 
+## Model Zoo
 
-## Extreme Gradient Boost (XGBoost)
+Extreme Gradient Boost (XGBoost)
 
 - [Introduction to Boosted Trees Slides](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)
 
 - [Introduction to Boosted Trees](https://xgboost.readthedocs.io/en/latest/model.html)
 
-
-
-
-## Light Gradient Boosting Machine (LightGBM)
+Light Gradient Boosting Machine (LightGBM)
 
 - [Documentation](http://lightgbm.readthedocs.io/en/latest/index.html)
 
