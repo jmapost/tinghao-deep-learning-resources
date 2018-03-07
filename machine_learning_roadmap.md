@@ -5,40 +5,39 @@
 
 To get some insights for subsequent processing and modeling. Check list:
 
-(a) Many search terms / products appeared several times.
+(1) Many search terms / products appeared several times.
 
-(b) Text similarities are great features.
+(2) Text similarities are great features.
 
-(c) Many products don’t have attributes features. Would this be a problem?
+(3) Many products don’t have attributes features. Would this be a problem?
 
-(d) Product ID seems to have strong predictive power. However the overlap of product ID between the training set and the testing set is not very high. Would this contribute to overfitting?
+(4) Product ID seems to have strong predictive power. However the overlap of product ID between the training set and the testing set is not very high. Would this contribute to overfitting?
 
+Approaches:
+
+(1) Features are linear related -> heat map plot -> Pearson correlation coefficient
+
+(2) Outliers -> scatter plot -> remove outliers
+
+(3) Classification -> scatter plot with colored labels
 
 2. Feature Engineering / Feature Selection
 
-(1) Distribution of features -> box plot -> box-cox transformation (normalize).
+(1) Stack train & test -> Don't have to do feature transformation twice.
+
+(2) Distribution of features -> box plot -> box-cox transformation (normalize).
 
 Note: Tree-based models don't depend on normalization, but neural networks do care.
 
-(2) Features are linear related -> heat map plot -> Pearson correlation coefficient
+(3) Missing data -> mean, medium, delete, ...???
 
-(3) Outliers -> scatter plot -> remove outliers
+(4) Categorical variables -> stack train & test -> one-hot encoded
 
-(4) Classification -> scatter plot with colored labels
+(5) Noise -> less regularized, more iterations or depth of trees or deeper networks
 
-(5) Missing data -> mean, medium, delete, ...???
+(6) Mixed features -> add, minus, multiply, divide by, ...???
 
-(6) Stack train & test -> Don't have to do feature transformation twice.
-
-(6) Categorical variables -> stack train & test -> one-hot encoded
-
-(7) Noise -> less regularized, more iterations or depth of trees or deeper networks
-
-(8) Mixed features -> add, minus, multiply, divide by, ...???
-
-(9) Count attributes. Find those frequent and easily exploited ones.
-
-
+(7) Count attributes. Find those frequent and easily exploited ones.
 
 
 3. Modeling -> set seed
@@ -145,6 +144,8 @@ Step 5. Use the validation set as watch_list to re-train the model with the best
 (a) (Kaggle) Public leader board scores are not consistent with local CV scores due to noise or non ideal distribution. Local CV > public leader board.
 
 (b) 5-fold CV is good enough.
+
+(c) Implement stratified cross validation instead of cross validation on large number of classes or imbalance distribution for each classes.
 
 
 

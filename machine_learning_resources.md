@@ -26,26 +26,28 @@
 
 ## Machine Learning Library
 
-[Scikit-learn](http://scikit-learn.org/stable/index.html)
+- [Scikit-learn](http://scikit-learn.org/stable/index.html)
+
+- [XGBoost Doc](https://xgboost.readthedocs.io/en/latest/python/python_api.html)
+
+- [XGBoost Parameters](https://github.com/dmlc/xgboost/blob/master/doc/parameter.md)
+
+- [LightGBM](http://lightgbm.readthedocs.io/en/latest/Python-API.html)
 
 
-
-
-## Model Zoo
+## Model Zoo Tutorials
 
 Extreme Gradient Boost (XGBoost)
 
-- [Introduction to Boosted Trees Slides](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)
-
-- [Introduction to Boosted Trees](https://xgboost.readthedocs.io/en/latest/model.html)
+- [Complete Guide to Parameter Tuning in XGBoost](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 
 Light Gradient Boosting Machine (LightGBM)
 
-- [Documentation](http://lightgbm.readthedocs.io/en/latest/index.html)
-
 - [What is LightGBM, How to implement it? How to fine tune the parameters?](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
 
+CatBoost
 
+- [CatBoost](https://github.com/catboost/catboost)
 
 
 
