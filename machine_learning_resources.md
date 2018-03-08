@@ -78,6 +78,7 @@ CatBoost
 
 - [XGBoost Demo](https://github.com/dmlc/xgboost/tree/master/demo)
 
+- [Model Ensemble Method](https://github.com/kaz-Anova/ensemble_amazon)
 
 ## My Blog
 

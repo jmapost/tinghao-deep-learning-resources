@@ -56,7 +56,9 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [CNN] [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/StarterCode/) - Great tutorials with Matlab code 
 
-- [RNN] [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - The best explanation of Long Short-term Memory.
+- [LSTM] [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - The best explanation of Long Short-term Memory.
+
+- [LSTM] [零基础入门深度学习(6) - 长短时记忆网络(LSTM)](https://www.zybuluo.com/hanbingtao/note/581764)
 
 - [RNN] [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/) - The best explanation of attention mechanism.
 
