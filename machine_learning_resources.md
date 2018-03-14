@@ -45,6 +45,10 @@ Light Gradient Boosting Machine (LightGBM)
 
 - [What is LightGBM, How to implement it? How to fine tune the parameters?](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
 
+Support Vector Machine (SVM)
+
+- [User Guide by Authors](https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
+
 CatBoost
 
 - [CatBoost](https://github.com/catboost/catboost)

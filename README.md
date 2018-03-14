@@ -23,9 +23,11 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [RL] [CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) by Emma Brunskill at Stanford - Since David Silver currently is not teaching Reinforcement Learning at UCL, you might wanna take course here instead.
 
-- [RL] [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/) by Sergey Levine at UC Berkeley
+- [RL] [CS 294: Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) by Sergey Levine at UC Berkeley
 
 - [RL] [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver at UCL - Big giant of reinforcement learning. This course was taught when David Silver is at UCL.
+
+- [RL] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 - [Self-driving Car] [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/) - YouTube lectures available
 
@@ -88,7 +90,7 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [Gitxiv](http://www.gitxiv.com/) - Source code for paper from arXive.
 
-
+- [Global NIPS 2017 Paper Implementation](https://nurture.ai/nips-challenge)
 
 
 
@@ -270,7 +272,7 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [Deep Learning Book](http://www.deeplearningbook.org/) - Fundamental knowledge of deep learning, also known as a bible in deep learning. As a bible, it also means it is hard to read.
 
-
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2018mar11.pdf)
 
 
 

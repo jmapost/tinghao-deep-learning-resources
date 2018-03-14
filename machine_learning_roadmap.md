@@ -13,11 +13,17 @@ To get some insights for subsequent processing and modeling. Check list:
 
 (4) Product ID seems to have strong predictive power. However the overlap of product ID between the training set and the testing set is not very high. Would this contribute to overfitting?
 
+(5) Check the distribution of features with continuous data.
+
 Approaches:
 
 (1) Features are linear related -> heat map plot -> Pearson correlation coefficient
 
-(2) Outliers -> scatter plot -> remove outliers
+(2) Outliers:
+
+(a) scatter plot -> manual remove outliers
+
+(b) Use sklearn.svm.OneClassSVM() to identify outliers and remove them.
 
 (3) Classification -> scatter plot with colored labels
 
@@ -27,7 +33,7 @@ Approaches:
 
 (2) Distribution of features -> box plot -> box-cox transformation (normalize).
 
-Note: Tree-based models don't depend on normalization, but neural networks do care.
+Note: Tree-based models don't depend on normalization, but boosting, neural networks do care.
 
 (3) Missing data -> mean, medium, delete, ...???
 
@@ -39,6 +45,15 @@ Note: Tree-based models don't depend on normalization, but neural networks do ca
 
 (7) Count attributes. Find those frequent and easily exploited ones.
 
+(8) Unbalanced data:
+
+(a) Data augmentation (generate new data, such as rotation and shift in image data)
+
+(b) Give different weights to different classes.
+
+(c) Upsampling - increase the sampling rate
+
+(d) Downsampling - decrease the sampling rate
 
 3. Modeling -> set seed
 
@@ -145,7 +160,7 @@ Step 5. Use the validation set as watch_list to re-train the model with the best
 
 (b) 5-fold CV is good enough.
 
-(c) Implement stratified cross validation instead of cross validation on large number of classes or imbalance distribution for each classes.
+(c) Implement stratified cross validation instead of basic cross validation on large number of classes or imbalance distribution for each classes.
 
 
 
