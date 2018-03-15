@@ -23,25 +23,48 @@ Approaches:
 
 (a) scatter plot -> manual remove outliers
 
-(b) Use sklearn.svm.OneClassSVM() to identify outliers and remove them.
+(b) Use OneClassSVM, EllipticEnvelope, IsolationForest, LocalOutlierFactor from sklearn to identify outliers and remove them.
 
-(3) Classification -> scatter plot with colored labels
+(3) Classification -> scatter plot with colour labels
 
-2. Feature Engineering / Feature Selection
+2. Feature Selection
 
-(1) Stack train & test -> Don't have to do feature transformation twice.
+(1) Filters
 
-(2) Distribution of features -> box plot -> box-cox transformation (normalize).
+(a) Correlation Selection -> select high correlation features
 
-Note: Tree-based models don't depend on normalization, but boosting, neural networks do care.
+(b) Information Gain -> compute node's gini -> gini(parent) - gini(child)
 
-(3) Missing data -> mean, medium, delete, ...???
+(c) Variance Selection -> sklearn.feature_selection.VarianceThreshold
 
-(4) Categorical variables -> stack train & test -> one-hot encoded
+(d) Chi-squared Test -> select the best features -> sklearn.feature_selection.SelectKBest +
+sklearn.feature_selection.chi2 
+
+(2) Wrapper -> individually add / delete features based on the precision -> sklearn.feature_selection.SelectFromModel
+
+(3) Embedded -> decision tree filter out feature importances -> clf.feature_importances_ + sklearn.feature_selection.SelectFromModel(clf, prefit=True)
+
+3. Feature Engineering
+
+(1) Stack train & test -> do feature transformation together
+
+(2) Distribution of features -> box plot -> box-cox transformation.
+
+(3) Missing data
+
+(a) Replace with mean / medium / common / regression / zero
+
+(b) Skip all rows with missing data / Skip features with many missing values
+
+(c) Missing data get added to one branch of split (ex: in credit feature, add unknown to poor)
+
+(d) Use classification error to determine where missing data go.
+
+(4) Categorical variables -> one-hot encoded
 
 (5) Noise -> less regularized, more iterations or depth of trees or deeper networks
 
-(6) Mixed features -> add, minus, multiply, divide by, ...???
+(6) Linear Combination -> add, minus, multiply, divide by, ...etc
 
 (7) Count attributes. Find those frequent and easily exploited ones.
 
@@ -55,13 +78,29 @@ Note: Tree-based models don't depend on normalization, but boosting, neural netw
 
 (d) Downsampling - decrease the sampling rate
 
-3. Modeling -> set seed
+(9) Clustering -> k-means -> same cluster consider as same label
+
+(10) Dimension Reduction -> PCA, Autoencoder
+
+(11) Standardize data - mean = 0, std = 1
+
+Note: Tree-based models don't depend on standardization, but boosting, neural networks do care.
+
+(12) Split data into training and testing data. Shuffle the training data.
+
+4. Modeling
+
+Use machine learning as baseline to optimize deep learning.
+
+Deep learning is not suitable for solving:
+- Data is too small
+- Data doesn't have local related features.
 
 (1) Select Models
 
 (a) Regression
-- Linear Regression
-- Lasso
+- Ridge Regression: Linear Regression + L2 Regularization
+- Lasso: Linear Regression + L1 Regularization
 - Polynomial Regression
 - Gradient Boost Machine (GBM)
 - XGBoost
@@ -88,19 +127,18 @@ Note: Tree-based models don't depend on normalization, but boosting, neural netw
 - Agglomerative Clustering
 
 (d) Dimension Reduction
+- Autoencoder
 - Principal Component Analysis (PCA)
 - Linear Discriminant Analysis (LDA)
 - Isometric Feature Mapping (Isomap)
 
-
-
 (2) Tune Parameters
 
-(a) Grid Search
+(a) Search for papers to know the approximate values
 
-(b) Bayesian Optimization
+(b) Grid Search
 
-
+(c) Bayesian Optimization
 
 (3) XGBoost Tunning Tips
 
@@ -144,7 +182,7 @@ Step 5. Use the validation set as watch_list to re-train the model with the best
 - More Features
 
 (b) Overfitting (high variance):
-- L2 Regularization
+- L2 Regularization (restrict weigths)
 - Dropout
 - Batch Normalization
 - Data Augmentation
@@ -153,6 +191,7 @@ Step 5. Use the validation set as watch_list to re-train the model with the best
 - Esemble Models
 - Reduce Features
 - More Data
+- Check model's coefficient, overfitting often associated with large estimated coefficient.
 
 (5) Cross Validation (CV)
 
@@ -162,9 +201,10 @@ Step 5. Use the validation set as watch_list to re-train the model with the best
 
 (c) Implement stratified cross validation instead of basic cross validation on large number of classes or imbalance distribution for each classes.
 
+(6) Evaluation Metric
+Use the correct metric to evaluate the scores.
 
-
-(6) Ensemble Models
+(7) Ensemble Models -- NO FREE LUNCH THEOREM
 
 It reduces both bias and variance of the final model. Base models should be as unrelated as possibly. This is why we tend to include non-tree-based models in the ensemble even though they don’t perform as well. The math says that the greater the diversity, and less bias in the final ensemble. Also, performance of base models shouldn’t differ to much.
 
@@ -186,7 +226,7 @@ Take 5-fold stacking as an example. First we split the training data into 5 fold
 
 
 
-(7) Pipline -> create a highly automated pipeline
+(8) Pipline -> create a highly automated pipeline
 
 (a) Automated grid search / bayesian optimization
 
