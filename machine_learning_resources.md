@@ -34,6 +34,7 @@
 
 - [LightGBM](http://lightgbm.readthedocs.io/en/latest/Python-API.html)
 
+- [PuLP](https://github.com/coin-or/pulp)
 
 ## Model Zoo Tutorials
 

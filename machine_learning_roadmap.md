@@ -5,7 +5,7 @@
 
 To get some insights for subsequent processing and modeling. Check list:
 
-(1) Many search terms / products appeared several times.
+(1) Many search terms / products appeared several times -> collections.Counter()
 
 (2) Text similarities are great features.
 
@@ -133,12 +133,9 @@ Deep learning is not suitable for solving:
 - Isometric Feature Mapping (Isomap)
 
 (2) Tune Parameters
-
-(a) Search for papers to know the approximate values
-
-(b) Grid Search
-
-(c) Bayesian Optimization
+- Search for papers to know the approximate values
+- Grid Search
+- Bayesian Optimization
 
 (3) XGBoost Tunning Tips
 
@@ -182,6 +179,12 @@ Step 5. Use the validation set as watch_list to re-train the model with the best
 - More Features
 
 (b) Overfitting (high variance):
+
+- Reason 1: model is too complex
+- Reason 2: too many noises
+- Reason 3: less training data
+
+Try:
 - L2 Regularization (restrict weigths)
 - Dropout
 - Batch Normalization

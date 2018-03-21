@@ -68,6 +68,8 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [GAN][Fantastic GANs and where to find them](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them) - List and compare different GANs.
 
+- [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
+
 - [DEBUG] [Debugging Neural Networks: A Checklist](https://engineering.semantics3.com/debugging-neural-networks-a-checklist-ca52e11151ec)
 
 - [Tutorial] [教程那么多，你……看完了吗？](https://www.jiqizhixin.com/articles/2018-02-07-3)
@@ -172,6 +174,8 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 ## Github Repositories (Keras Based)
 
+- [Tutorials] [Keras Resources](https://github.com/fchollet/keras-resources)
+
 - [Tutorials] [https://github.com/keras-team/keras/tree/master/examples](https://github.com/keras-team/keras/tree/master/examples) - Keras official examples.
 
 - [Tutorials] [https://github.com/PacktPublishing/Deep-Learning-with-Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras) - Code repository for Deep Learning with Keras published by Packt.
@@ -186,7 +190,7 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [Capsules Net] [https://github.com/XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
 
-
+- [GAN] [https://github.com/tjwei/GANotebooks](https://github.com/tjwei/GANotebooks)
 
 
 
