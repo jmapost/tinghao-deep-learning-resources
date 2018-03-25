@@ -56,7 +56,7 @@ sklearn.feature_selection.chi2
 
 (b) Skip all rows with missing data / Skip features with many missing values
 
-(c) Missing data get added to one branch of split (ex: in credit feature, add unknown to poor)
+(c) Anaylze -> missing data get added to one branch of split (ex: in credit feature, add unknown to poor)
 
 (d) Use classification error to determine where missing data go.
 

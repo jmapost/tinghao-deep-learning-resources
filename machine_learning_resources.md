@@ -36,6 +36,9 @@
 
 - [PuLP](https://github.com/coin-or/pulp)
 
+- [StackNet](https://github.com/kaz-Anova/StackNet)
+
+
 ## Model Zoo Tutorials
 
 Extreme Gradient Boost (XGBoost)
@@ -69,11 +72,6 @@ CatBoost
 
 
 
-## Probability and Statistics
-
-- [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/wp/think-stats-2e/) -  It's specifically helpful for machine learning since it emphasizes applications with real datasets and incorporates exercises in Python.
-
-
 
 ## Kaggle
 
@@ -84,6 +82,26 @@ CatBoost
 - [XGBoost Demo](https://github.com/dmlc/xgboost/tree/master/demo)
 
 - [Model Ensemble Method](https://github.com/kaz-Anova/ensemble_amazon)
+
+
+## Hyperparameters Tuning
+
+- [Hyperopt](https://github.com/hyperopt/hyperopt)
+
+- [GpyOpt](https://github.com/SheffieldML/GPyOpt)
+
+- [SpearMint](https://github.com/JasperSnoek/spearmint)
+
+
+
+## Probability and Statistics
+
+- [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/wp/think-stats-2e/) -  It's specifically helpful for machine learning since it emphasizes applications with real datasets and incorporates exercises in Python.
+
+
+
+
+
 
 ## My Blog
 

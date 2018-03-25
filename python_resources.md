@@ -17,6 +17,7 @@
 
 - [Google's Python Class](https://developers.google.com/edu/python/)
 
+- [编写高质量代码改善 Python 程序的 91 个建议](https://www.gitbook.com/book/l1nwatch/writing_solid_python_code_gitbook/details)
 
 ## Libraries
 
@@ -26,13 +27,4 @@
 ## Crawler
 
 [Facebook Graph API](https://developers.facebook.com/docs/graph-api/)
-
-
-
-
-
-
-
-
-
 
