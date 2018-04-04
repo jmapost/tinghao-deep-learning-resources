@@ -21,8 +21,16 @@
 
 ## Libraries
 
-- [Image Augmentation] [https://github.com/aleju/imgaug](https://github.com/aleju/imgaug)
-
+- Images
+	- [Pillow](https://pillow.readthedocs.io/en/5.1.x/handbook/index.html)
+	- [OpenCV](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html)
+	- [Image Augmentation](https://github.com/aleju/imgaug)
+- Audio
+	- [Scipy](https://docs.scipy.org/doc/scipy/reference/)
+	- [Librosa](https://librosa.github.io/librosa/)
+- Natural Language Processing
+	- [NLTK](https://www.nltk.org/)
+	- [SpaCy](https://spacy.io/)
 
 ## Crawler
 
