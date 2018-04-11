@@ -4,6 +4,9 @@
 
 - [Must Check] [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera - This course is considered the MUST take if you wanna learn machine learning. Andrew uses easy understanding knowledge to bring you to the machine learning world.
 
+- [Must Check] [Machine Learning Fundations 1](https://www.coursera.org/learn/ntumlone-mathematicalfoundations/home/welcome) - Best machine learning courses in Chinese.
+
+- [Must Check] [Machine Learning Fundations 2](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2) - Best machine learning courses in Chinese.
 
 ## Post
 

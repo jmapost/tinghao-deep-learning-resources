@@ -195,6 +195,10 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 
 
+## Github Repositories (PyTorch Based)
+
+- [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
+
 
 ## Github Repositories (Caffe2 Based)
 
@@ -234,14 +238,13 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [TensorFlow] [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/) - Steps by steps teach you how to implement TensorFlow on some tasks. This is the starting point of learning TensorFlow.
 
-- [TensorFlow] [CS 20: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html) by Chip Huyen at Stanford - TensorFlow course for Stanford students
-
-- [DialogFlow](https://dialogflow.com/docs/getting-started/basics)
+- [PyTorch] [PyTorch Tutorials](http://pytorch.org/tutorials/index.html)
 
 - [MXNet](https://mxnet.incubator.apache.org/tutorials/index.html)
 
 - [Deep Learning for Java](https://deeplearning4j.org/tutorials)
 
+- [DialogFlow](https://dialogflow.com/docs/getting-started/basics)
 
 
 
