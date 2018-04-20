@@ -100,6 +100,8 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 ## Github Repositories (TensorFlow Based)
 
+- [Tutorials] [https://github.com/BinRoot/TensorFlow-Book/tree/master/ch02_basics](https://github.com/BinRoot/TensorFlow-Book/tree/master/ch02_basics)
+
 - [Tutorials] [https://github.com/ageron/handson-ml](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 
 - [Tutorials] [https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorial and examples for beginners with latest APIs
