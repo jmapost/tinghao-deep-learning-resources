@@ -72,8 +72,6 @@ Note: I pust some out of date resources in Past Resources, however some of them 
 
 - [DEBUG] [Debugging Neural Networks: A Checklist](https://engineering.semantics3.com/debugging-neural-networks-a-checklist-ca52e11151ec)
 
-- [Tutorial] [教程那么多，你……看完了吗？](https://www.jiqizhixin.com/articles/2018-02-07-3)
-
 
 
 
